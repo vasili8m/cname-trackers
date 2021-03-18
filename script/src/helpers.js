@@ -59,7 +59,9 @@ const getValidFromRemoved = async (removedInfo) => {
         .map(async ([disguise, tracker]) => {
             const isValid = await validateCname(disguise, tracker);
             return isValid ? { disguise, tracker } : null;
-        }));
+        })
+        // filter nulls after cname validation
+        .filter((r) => r));
     return validInfo;
 };
 

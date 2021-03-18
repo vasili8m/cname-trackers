@@ -27,8 +27,7 @@ const mergeDomainsInfo = async (companyName, fetchedDomainsInfo) => {
 
     const merged = [
         ...revertNewInfo,
-        // filter nulls after cname validation
-        ...validRemovedInfo.filter((i) => i),
+        ...validRemovedInfo,
     ];
 
     return merged;
