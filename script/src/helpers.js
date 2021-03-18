@@ -93,7 +93,17 @@ const sortMergedInfo = (mergedInfo, mainDomains) => {
     return sorted;
 };
 
-const stashInfoPairs = (pairs) => Object.fromEntries(pairsToEntries(pairs));
+const getSortedByDisguisesObj = (entries) => {
+    const sorted = entries
+        // alphabetically sort by disguise which are first in pairs "disguise-tracker"
+        .sort((first, second) => first[0].localeCompare(second[0]));
+    return Object.fromEntries(sorted);
+};
+
+const stashInfoPairs = (pairs) => {
+    const infoEntries = pairsToEntries(pairs);
+    return getSortedByDisguisesObj(infoEntries);
+};
 
 module.exports = {
     formatFilename,
@@ -104,5 +114,4 @@ module.exports = {
     sortMergedInfo,
     pairsToEntries,
     stashInfoPairs,
-    validateCname,
 };
