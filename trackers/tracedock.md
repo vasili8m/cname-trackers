@@ -19,10 +19,14 @@
 | api.weltevree.eu | a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com |
 | app1.youngcapital.nl | a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com |
 | core.bruynzeelkeukens.nl | a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com |
+| dtch.brunel.nl | a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com |
+| lease.leasevergelijker.nl | a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com |
 | tdep.vacansoleil.de | a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com |
 | tdep.vacansoleil.fr | a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com |
 | tdep.vacansoleil.nl | a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com |
 | box.bossdata.be | afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.com |
 | erp.qwic.nl | afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.com |
+| host11.traffic-builders.com | afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.com |
 | tdep.garmundo.de | afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.com |
 | tdep.garmundo.nl | afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.com |
+| tdep.teamnijhuis.com | afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.com |

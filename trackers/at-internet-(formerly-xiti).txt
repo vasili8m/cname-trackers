@@ -7,6 +7,7 @@
 ||a.20minutes.fr^
 ||a.pourquoidocteur.fr^
 ||a1.api.bbc.co.uk^
+||abncx.amv.fr^
 ||ana.tv5unis.ca^
 ||arrietty.nrj.fr^
 ||at-cddc.actu-juridique.fr^
@@ -18,6 +19,7 @@
 ||c0012.brsimg.com^
 ||chihiro.nostalgie.fr^
 ||collect.meilleurtaux.com^
+||d.m-net.de^
 ||da.maif.fr^
 ||hal.courrierinternational.com^
 ||hd.pe.fr^
@@ -30,6 +32,7 @@
 ||logs1257.at.pagesjaunes.fr^
 ||mango.seloger.com^
 ||mond.post.ch^
+||mond.postauto.ch^
 ||montpalatin.handicap.fr^
 ||ponyo.cheriefm.fr^
 ||res.elle.fr^

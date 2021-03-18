@@ -6,6 +6,7 @@
 ||a8.cyclemarket.jp^
 ||a8.eonet.jp^
 ||a8.print-netsquare.com^
+||a8.shopserve.jp^
 ||a8clk.xserver.ne.jp^
 ||a8cv.amiami.jp^
 ||afi.ssl.gmobb.jp^

@@ -10,6 +10,7 @@
 ||k.cocooncenter.es^
 ||k.direct-assurance.fr^
 ||k.jacadi.ch^
+||k.jacadi.es^
 ||k.jacadi.fr^
 ||k.jacadi.it^
 ||k.laredoute.be^
@@ -23,3 +24,5 @@
 ||k.voyageursdumonde.fr^
 ||ka.ilius.net^
 ||keyade.alltricks.fr^
+||landing.photobox.com^
+||tck.transavia.com^

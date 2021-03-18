@@ -5,6 +5,7 @@
 !
 ||tk.abt.com^
 ||tk.airfrance.ca^
+||tk.airfrance.com^
 ||tk.airfrance.fr^
 ||tk.airfrance.us^
 ||tk.biovea.com^

@@ -3,12 +3,12 @@
 !
 ! oghub.io disguised trackers
 !
+||te.heine.de^
 ||te.limango.de^
 ||te.mytoys.de^
 ||te.otto.de^
-||te.sheego.de^
-||te.universal.at^
-||te.witt-weiden.de^
+||te.schlafwelt.de^
+||te.sieh-an.de^
 ||te.yourhome.de^
 ||tp.baur.de^
 ||tp.frankonia.de^
@@ -23,6 +23,7 @@
 ||tp.otto-baumarkt.de^
 ||tp.otto.de^
 ||tp.ottoversand.at^
+||tp.quelle.at^
 ||tp.quelle.de^
 ||tp.schlafwelt.de^
 ||tp.sheego.de^

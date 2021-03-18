@@ -38,6 +38,7 @@
 | tk.prismashop.fr | tk_prismashop_fr.wizaly.com |
 | tk.transavia.com | tk_transavia_com.wizaly.com |
 | tk.airfrance.ca | tkairfrance.wizaly.com |
+| tk.airfrance.com | tkairfrance.wizaly.com |
 | tk.airfrance.fr | tkairfrance.wizaly.com |
 | tk.airfrance.us | tkairfrance.wizaly.com |
 | tk.msccruises.com | tkmsccruisescom.wizaly.com |

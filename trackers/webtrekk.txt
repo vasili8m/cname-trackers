@@ -17,6 +17,7 @@
 ||track.yello.de^
 ||tracking.tchibo.com.tr^
 ||tracking.tchibo.de^
+||trk.nuernberger.de^
 ||w3.flatex.at^
 ||w3.flatex.de^
 ||w3.flatex.nl^
@@ -26,9 +27,12 @@
 ! wt-eu02.net disguised trackers
 !
 ||a.gedidigital.it^
+||a.intercityhotel.com^
 ||a.steigenberger.com^
+||abc.fackelmann.de^
 ||analytics.hermesworld.com^
 ||analytics.myhermes.de^
+||app03.ikk-classic.de^
 ||audev.zeit.de^
 ||cdn7.baunetz.de^
 ||census.misterspex.at^
@@ -36,14 +40,18 @@
 ||census.misterspex.co.uk^
 ||census.misterspex.de^
 ||census.misterspex.es^
+||census.misterspex.fi^
 ||census.misterspex.fr^
 ||census.misterspex.nl^
 ||census.misterspex.no^
 ||census.misterspex.se^
 ||da.hornbach.at^
+||da.hornbach.ch^
+||da.hornbach.cz^
 ||da.hornbach.de^
 ||da.hornbach.lu^
 ||da.hornbach.nl^
+||da.hornbach.ro^
 ||da.hornbach.se^
 ||da.hornbach.sk^
 ||data.adlermode.com^
@@ -69,6 +77,7 @@
 ||ed.emp.co.uk^
 ||ed.emp.de^
 ||ed.emp.fi^
+||ed.emp.ie^
 ||ed.large.be^
 ||ed.large.nl^
 ||eht.endress.com^
@@ -78,6 +87,7 @@
 ||mit.dws.de^
 ||ot.obi-italia.it^
 ||ot.obi.at^
+||ot.obi.ba^
 ||ot.obi.ch^
 ||ot.obi.cz^
 ||ot.obi.de^
@@ -88,9 +98,12 @@
 ||pixel.welt.de^
 ||proditor.sparda.de^
 ||scout.bergfreunde.de^
+||startrekk.flaconi.at^
 ||startrekk.flaconi.pl^
+||t.enbw.com^
 ||t.paydirekt.de^
 ||text.benefitsatwork.be^
+||text.benefitsatwork.ch^
 ||text.convenzioniaziendali.it^
 ||text.rahmenvereinbarungen.de^
 ||tippcom01.tipp24.com^
@@ -104,6 +117,7 @@
 ||wa.wdr.de^
 ||wa.wdrmaus.de^
 ||waaf.medion.com^
+||waaf1.aldilife.com^
 ||waaf1.alditalk.de^
 ||waaf1.hoferfotos.at^
 ||wbtrkk.deutschlandcard.de^
@@ -112,8 +126,10 @@
 ||wbtrkk.teufelaudio.com^
 ||wbtrkk.teufelaudio.es^
 ||wbtrkk.teufelaudio.fr^
+||wbtrkk.teufelaudio.it^
 ||wbtrkk.teufelaudio.nl^
 ||wbtrkk.teufelaudio.pl^
+||web.bankofscotland.de^
 ||web.diebayerische.de^
 ||web.emails.elc.co.uk^
 ||web.emails.thetoyshop.com^
@@ -127,11 +143,15 @@
 ||wetr.sportscheck.com^
 ||wt.envivas.de^
 ||wt.generali.de^
+||wt.netze-bw.de^
 ||wt.vhb.de^
 ||wttd.douglas.at^
 ||wttd.douglas.de^
 ||wttd.douglas.it^
 ||wttd.douglas.nl^
+||wttd.douglas.pl^
+||wttd.madeleine-fashion.nl^
 ||wttd.madeleine-mode.at^
 ||wttd.madeleine-mode.ch^
 ||wttd.madeleine.de^
+||wttd.madeleine.fr^

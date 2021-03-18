@@ -16,6 +16,7 @@
 | k.cocooncenter.es | k.keyade.com |
 | k.direct-assurance.fr | k.keyade.com |
 | k.jacadi.ch | k.keyade.com |
+| k.jacadi.es | k.keyade.com |
 | k.jacadi.fr | k.keyade.com |
 | k.jacadi.it | k.keyade.com |
 | k.laredoute.be | k.keyade.com |
@@ -28,4 +29,6 @@
 | k.truffaut.com | k.keyade.com |
 | k.voyageursdumonde.fr | k.keyade.com |
 | keyade.alltricks.fr | k.keyade.com |
+| landing.photobox.com | k.keyade.com |
+| tck.transavia.com | k.keyade.com |
 | ka.ilius.net | mt.k.keyade.com |
