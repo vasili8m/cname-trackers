@@ -594,7 +594,7 @@
 !
 ! sc.adobedc.net disguised trackers
 !
-
+! no domains found for sc.adobedc.net
 !
 ! sc.omtrdc.net disguised trackers
 !

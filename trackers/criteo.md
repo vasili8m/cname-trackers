@@ -29,6 +29,8 @@
     * cdn-crf.storetail.io
     * cdn-fnac.storetail.io
     * cdn-lrd.storetail.io
+    * tk-crf.storetail.io
+    * tk-fnac.storetail.io
     * tk-global.storetail.io
     * tk-lrd.storetail.io
 
@@ -868,9 +870,12 @@
 | sxjfhh.usatoday.com | s.dnsdelegation.io |
 | tgmklw.productreview.com.au | t.dnsdelegation.io |
 | trkpzz.dcinside.com | t.dnsdelegation.io |
+| content-strl.courses-en-ligne.carrefour.fr | tk-crf.storetail.io |
+| degh48.fnac.com | tk-fnac.storetail.io |
 | content-strl.courses-en-ligne.carrefour.fr | tk-global.storetail.io |
 | degh48.fnac.com | tk-global.storetail.io |
 | doja.worten.es | tk-global.storetail.io |
+| rdtdlv.laredoute.fr | tk-global.storetail.io |
 | rdtdlv.laredoute.fr | tk-lrd.storetail.io |
 | uvgxhu.ezgif.com | u.dnsdelegation.io |
 | vbsjdd.olx.pt | v.dnsdelegation.io |

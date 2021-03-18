@@ -3,6 +3,10 @@
 ## Disguised trackers list
 
 * oghub.io
+    * js.oghub.io
+    * te-heine-de.oghub.io
+    * te-limango-de.oghub.io
+    * te-mytoys-de.oghub.io
     * te-otto-de.oghub.io
     * te-schlafwelt-de.oghub.io
     * te-sieh-an-de.oghub.io
@@ -33,6 +37,26 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
+| tp.baur.de | js.oghub.io |
+| tp.frankonia.de | js.oghub.io |
+| tp.heine.de | js.oghub.io |
+| tp.imwalking.de | js.oghub.io |
+| tp.jelmoli-shop.ch | js.oghub.io |
+| tp.limango.de | js.oghub.io |
+| tp.mirapodo.de | js.oghub.io |
+| tp.mytoys.de | js.oghub.io |
+| tp.otto.de | js.oghub.io |
+| tp.ottoversand.at | js.oghub.io |
+| tp.quelle.at | js.oghub.io |
+| tp.quelle.de | js.oghub.io |
+| tp.schlafwelt.de | js.oghub.io |
+| tp.sheego.de | js.oghub.io |
+| tp.universal.at | js.oghub.io |
+| tp.yomonda.de | js.oghub.io |
+| tp.yourhome.de | js.oghub.io |
+| te.heine.de | te-heine-de.oghub.io |
+| te.limango.de | te-limango-de.oghub.io |
+| te.mytoys.de | te-mytoys-de.oghub.io |
 | te.otto.de | te-otto-de.oghub.io |
 | te.schlafwelt.de | te-schlafwelt-de.oghub.io |
 | te.sieh-an.de | te-sieh-an-de.oghub.io |
@@ -40,6 +64,10 @@
 | te.heine.de | te.oghub.io |
 | te.limango.de | te.oghub.io |
 | te.mytoys.de | te.oghub.io |
+| te.otto.de | te.oghub.io |
+| te.schlafwelt.de | te.oghub.io |
+| te.sieh-an.de | te.oghub.io |
+| te.yourhome.de | te.oghub.io |
 | tp.baur.de | tp-baur-de.oghub.io |
 | tp.frankonia.de | tp-frankonia-de.oghub.io |
 | tp.frankoniamoda.ch | tp-frankoniamoda-ch.oghub.io |

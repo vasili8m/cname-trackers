@@ -2723,6 +2723,7 @@
     * usatoday.com.sc.omtrdc.net
     * usatoday.com.ssl.sc.omtrdc.net
     * usbank.com.ssl.d2.sc.omtrdc.net
+    * usonly.sc.omtrdc.net
     * usopen.org.ssl.sc.omtrdc.net
     * v.vodafone.com.ssl.sc.omtrdc.net
     * va-edge.sc.omtrdc.net
@@ -5615,6 +5616,7 @@
 | srepdata.usatoday.com | usatoday.com.ssl.sc.omtrdc.net |
 | smetrics.usbank.com | usbank.com.ssl.d2.sc.omtrdc.net |
 | myhome.usg.com | usg.com.102.122.2o7.net |
+| analytics.verizonwireless.com | usonly.sc.omtrdc.net |
 | smetrics.usopen.org | usopen.org.ssl.sc.omtrdc.net |
 | smetrics.v.vodafone.com | v.vodafone.com.ssl.sc.omtrdc.net |
 | hulu-ios.hb-api.omtrdc.net | va-edge.sc.omtrdc.net |

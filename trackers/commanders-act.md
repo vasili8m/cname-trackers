@@ -16,6 +16,7 @@
     * redirect622.tagcommander.com
     * redirect660.tagcommander.com
     * redirect891.tagcommander.com
+    * ypg.aws.tagcommander.com
     * ypg.tagcommander.com
 
 ## Cloaking domains
@@ -35,4 +36,5 @@
 | data.ubi.com | redirect622.tagcommander.com |
 | tagcommander.laredoute.co.uk | redirect660.tagcommander.com |
 | data.wptag.net | redirect891.tagcommander.com |
+| logger.yp.ca | ypg.aws.tagcommander.com |
 | logger.yp.ca | ypg.tagcommander.com |
