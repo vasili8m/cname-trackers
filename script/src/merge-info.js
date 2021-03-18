@@ -1,7 +1,9 @@
 const { promises: fs } = require('fs');
 const path = require('path');
 const {
-    pairsToEntries, getRemoved, getValidFromRemoved,
+    pairsToEntries,
+    getRemoved,
+    getValidPairsFromRemoved,
 } = require('./helpers');
 
 const TRACKERS_DIR_PATH = '../../trackers';
@@ -20,14 +22,11 @@ const mergeDomainsInfo = async (companyName, fetchedDomainsInfo) => {
     const newInfo = Object.fromEntries(pairsToEntries(newInfoPairs));
 
     const removedDiff = getRemoved(oldInfo, newInfo);
-    const validRemovedInfo = await getValidFromRemoved(removedDiff);
-
-    const revertNewInfo = Object.entries(newInfo)
-        .map(([disguise, tracker]) => ({ disguise, tracker }));
+    const validRemovedPairs = await getValidPairsFromRemoved(removedDiff);
 
     const merged = [
-        ...revertNewInfo,
-        ...validRemovedInfo,
+        ...newInfoPairs,
+        ...validRemovedPairs,
     ];
 
     return merged;

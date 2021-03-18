@@ -54,7 +54,7 @@ const validateCname = async (disguise, tracker) => {
     return isValid;
 };
 
-const getValidFromRemoved = async (removedInfo) => {
+const getValidPairsFromRemoved = async (removedInfo) => {
     const validInfo = await Promise.all(Object.entries(removedInfo)
         .map(async ([disguise, tracker]) => {
             const isValid = await validateCname(disguise, tracker);
@@ -93,15 +93,14 @@ const sortMergedInfo = (mergedInfo, mainDomains) => {
     return sorted;
 };
 
-const stashInfoPairs = (pairs) => Object.fromEntries(pairs
-    .map(({ disguise, tracker }) => [disguise, tracker]));
+const stashInfoPairs = (pairs) => Object.fromEntries(pairsToEntries(pairs));
 
 module.exports = {
     formatFilename,
     sleep,
     sortAscending,
     getRemoved,
-    getValidFromRemoved,
+    getValidPairsFromRemoved,
     sortMergedInfo,
     pairsToEntries,
     stashInfoPairs,
