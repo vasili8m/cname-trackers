@@ -49,7 +49,7 @@ const validateCname = async (disguise, tracker) => {
         const result = await dnsPromises.resolveCname(disguise);
         isValid = result && result.includes(tracker);
     } catch (e) {
-        isValid = false;
+        throw new Error(`Cname checking for { ${disguise} : ${tracker} } failed`);
     }
     return isValid;
 };
@@ -104,4 +104,5 @@ module.exports = {
     sortMergedInfo,
     pairsToEntries,
     stashInfoPairs,
+    validateCname,
 };
