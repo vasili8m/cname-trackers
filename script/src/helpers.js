@@ -43,15 +43,30 @@ const getRemoved = (oldInfo, newInfo) => {
     return removed;
 };
 
-const validateCname = async (disguise, tracker) => {
-    let isValid;
+const resolve = async (disguise) => {
+    let res;
     try {
-        const result = await dnsPromises.resolveCname(disguise);
-        isValid = result && result.includes(tracker);
+        res = await dnsPromises.resolveCname(disguise);
     } catch (e) {
-        throw new Error(`Cname checking for { ${disguise} : ${tracker} } failed`);
+        res = null;
     }
-    return isValid;
+    return res;
+};
+
+const validateCname = async (disguise, tracker) => {
+    const RETRY_TIMOUT_MS = 10 * 1000;
+    let res = await resolve(disguise);
+
+    // if cname resolving failed, check it one more time
+    if (res === null) {
+        await sleep(RETRY_TIMOUT_MS);
+        res = await resolve(disguise);
+    }
+
+    if (!res) {
+        throw new Error(`Cname checking failed on { ${disguise} : ${tracker} }`);
+    }
+    return res.includes(tracker);
 };
 
 const getValidPairsFromRemoved = async (removedInfo) => {
@@ -59,10 +74,9 @@ const getValidPairsFromRemoved = async (removedInfo) => {
         .map(async ([disguise, tracker]) => {
             const isValid = await validateCname(disguise, tracker);
             return isValid ? { disguise, tracker } : null;
-        })
-        // filter nulls after cname validation
-        .filter((r) => r));
-    return validInfo;
+        }));
+    // filter nulls after cname validation
+    return validInfo.filter((r) => r);
 };
 
 const sortMergedInfo = (mergedInfo, mainDomains) => {
