@@ -10,7 +10,7 @@ const buildRules = async (trackersInfo) => {
 ! ${domainName} disguised trackers
 !`;
             let rulesString = `! no domains found for ${domainName}`;
-            if (cloakedTrackers) {
+            if (cloakedTrackers && cloakedTrackers.length > 0) {
                 const disguises = cloakedTrackers.map(({ disguise }) => disguise);
                 // remove duplicates
                 const uniqDisguises = [...new Set(disguises)];
