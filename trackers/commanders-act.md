@@ -18,11 +18,19 @@
     * redirect891.tagcommander.com
     * ypg.aws.tagcommander.com
     * ypg.tagcommander.com
+* ct-phoenix-proxy-it-prod-475e2cdbe73ac97c.elb.eu-west-3.amazonaws.com
 
 ## Cloaking domains
 
 | Disguise | Tracker |
 | ---- | ---- |
+| data.cofinoga.fr | ct-phoenix-proxy-it-prod-475e2cdbe73ac97c.elb.eu-west-3.amazonaws.com |
+| data.decathlon.it | ct-phoenix-proxy-it-prod-475e2cdbe73ac97c.elb.eu-west-3.amazonaws.com |
+| data.ouigo.com | ct-phoenix-proxy-it-prod-475e2cdbe73ac97c.elb.eu-west-3.amazonaws.com |
+| data.ubi.com | ct-phoenix-proxy-it-prod-475e2cdbe73ac97c.elb.eu-west-3.amazonaws.com |
+| data.wptag.net | ct-phoenix-proxy-it-prod-475e2cdbe73ac97c.elb.eu-west-3.amazonaws.com |
+| sales.disneylandparis.com | ct-phoenix-proxy-it-prod-475e2cdbe73ac97c.elb.eu-west-3.amazonaws.com |
+| tag.boulanger.fr | ct-phoenix-proxy-it-prod-475e2cdbe73ac97c.elb.eu-west-3.amazonaws.com |
 | data.cofinoga.fr | redirect142.tagcommander.com |
 | data.decathlon.fr | redirect271.tagcommander.com |
 | tcdata.fnac.com | redirect28.tagcommander.com |
@@ -36,5 +44,6 @@
 | data.ubi.com | redirect622.tagcommander.com |
 | tagcommander.laredoute.co.uk | redirect660.tagcommander.com |
 | data.wptag.net | redirect891.tagcommander.com |
+| logger.yp.ca | ypg.aws.tagcommander.com |
 | logger.yp.ca | ypg.aws.tagcommander.com |
 | logger.yp.ca | ypg.tagcommander.com |

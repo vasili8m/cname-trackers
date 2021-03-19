@@ -5,6 +5,7 @@
 !
 ||2tty.overstappen.nl^
 ||3d.shophumanoid.com^
+||ee.sightful.nl^
 ||en.johnhardy.com^
 ||s1.carnext.com^
 ||style.onvz.nl^
@@ -20,15 +21,20 @@
 ||core.bruynzeelkeukens.nl^
 ||dtch.brunel.nl^
 ||lease.leasevergelijker.nl^
+||tdep.vacansoleil.be^
 ||tdep.vacansoleil.de^
+||tdep.vacansoleil.dk^
 ||tdep.vacansoleil.fr^
 ||tdep.vacansoleil.nl^
 !
 ! afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.com disguised trackers
 !
-||box.bossdata.be^
 ||erp.qwic.nl^
 ||host11.traffic-builders.com^
 ||tdep.garmundo.de^
 ||tdep.garmundo.nl^
 ||tdep.teamnijhuis.com^
+!
+! afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.COM disguised trackers
+!
+||box.bossdata.be^

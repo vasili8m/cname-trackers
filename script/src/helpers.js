@@ -82,7 +82,7 @@ const getCnamesChain = async (disguise, acc = []) => {
 const validateCname = async (disguise, tracker) => {
     const cnameChain = await getCnamesChain(disguise);
     if (!cnameChain.length) {
-        throw new Error(`No cname found for "${disguise}"`);
+        return false;
     }
     return cnameChain.includes(tracker);
 };

@@ -4,15 +4,18 @@
 ! k.keyade.com disguised trackers
 !
 ||clk.boulanger.com^
+||k.cocooncenter.be^
 ||k.cocooncenter.co.uk^
 ||k.cocooncenter.com^
 ||k.cocooncenter.de^
 ||k.cocooncenter.es^
 ||k.direct-assurance.fr^
 ||k.jacadi.ch^
+||k.jacadi.de^
 ||k.jacadi.es^
 ||k.jacadi.fr^
 ||k.jacadi.it^
+||k.jacadi.us^
 ||k.laredoute.be^
 ||k.laredoute.fr^
 ||k.laredoute.nl^
@@ -21,8 +24,10 @@
 ||k.rueducommerce.fr^
 ||k.terdav.com^
 ||k.truffaut.com^
+||k.voyageursdumonde.ca^
 ||k.voyageursdumonde.fr^
 ||ka.ilius.net^
 ||keyade.alltricks.fr^
 ||landing.photobox.com^
+||tck.photobox.com^
 ||tck.transavia.com^

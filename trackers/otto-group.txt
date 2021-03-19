@@ -3,17 +3,23 @@
 !
 ! oghub.io disguised trackers
 !
+||te.baur.de^
+||te.frankonia.de^
 ||te.heine.de^
 ||te.limango.de^
 ||te.mytoys.de^
 ||te.otto.de^
 ||te.schlafwelt.de^
+||te.sheego.de^
 ||te.sieh-an.de^
 ||te.yourhome.de^
+||tp.ackermann.ch^
 ||tp.baur.de^
+||tp.frankonia.com^
 ||tp.frankonia.de^
 ||tp.frankoniamoda.ch^
 ||tp.heine.at^
+||tp.heine.ch^
 ||tp.heine.de^
 ||tp.imwalking.de^
 ||tp.jelmoli-shop.ch^

@@ -26,6 +26,7 @@
     * 101230059950694.wt-eu02.net
     * 107006243521810.wt-eu02.net
     * 148749046266446.wt-eu02.net
+    * 176652923057792.wt-eu02.net
     * 208005830805862.wt-eu02.net
     * 285545256993116.wt-eu02.net
     * 286813086616891.wt-eu02.net
@@ -48,6 +49,7 @@
     * 729347163621496.wt-eu02.net
     * 730059294506327.wt-eu02.net
     * 737859735586197.wt-eu02.net
+    * 752828619977374.wt-eu02.net
     * 753960264605716.wt-eu02.net
     * 807354460250799.wt-eu02.net
     * 823532764568303.wt-eu02.net
@@ -67,6 +69,8 @@
     * berlinonline-02.wt-eu02.net
     * blume2000.wt-eu02.net
     * corporate-benefits.wt-eu02.net
+    * creditreform01.wt-eu02.net
+    * creditreform02.wt-eu02.net
     * data-inbank01.wt-eu02.net
     * data-leipzig.wt-eu02.net
     * de-card01.wt-eu02.net
@@ -105,6 +109,7 @@
 | web.news.creedfragrances.co.uk | 101230059950694.wt-eu02.net |
 | web.emails.elc.co.uk | 107006243521810.wt-eu02.net |
 | wbtrkk.teufelaudio.nl | 148749046266446.wt-eu02.net |
+| trk.nuernberger.digital | 176652923057792.wt-eu02.net |
 | census.misterspex.de | 208005830805862.wt-eu02.net |
 | web.news.eprice.it | 285545256993116.wt-eu02.net |
 | mit.db.com | 286813086616891.wt-eu02.net |
@@ -128,6 +133,7 @@
 | web.diebayerische.de | 729347163621496.wt-eu02.net |
 | census.misterspex.at | 730059294506327.wt-eu02.net |
 | mapp.yesstyle.com | 737859735586197.wt-eu02.net |
+| wbtrkk.teufel.ch | 752828619977374.wt-eu02.net |
 | census.misterspex.nl | 753960264605716.wt-eu02.net |
 | abc.fackelmann.de | 807354460250799.wt-eu02.net |
 | mit.dws.com | 823532764568303.wt-eu02.net |
@@ -155,8 +161,11 @@
 | text.benefitsatwork.be | corporate-benefits.wt-eu02.net |
 | text.benefitsatwork.ch | corporate-benefits.wt-eu02.net |
 | text.convenzioniaziendali.it | corporate-benefits.wt-eu02.net |
+| text.mitarbeiterangebote.at | corporate-benefits.wt-eu02.net |
 | text.rahmenvereinbarungen.de | corporate-benefits.wt-eu02.net |
 | sub1.cosmosdirekt.de | cosmos01ssl.webtrekk.net |
+| fiwinet.firmenwissen.de | creditreform01.wt-eu02.net |
+| webmet.creditreform.de | creditreform02.wt-eu02.net |
 | data.inbank.it | data-inbank01.wt-eu02.net |
 | data.leipzig.de | data-leipzig.wt-eu02.net |
 | wbtrkk.deutschlandcard.de | de-card01.wt-eu02.net |
@@ -205,6 +214,7 @@
 | wttd.madeleine-fashion.nl | madeleineprod01.wt-eu02.net |
 | wttd.madeleine-mode.at | madeleineprod01.wt-eu02.net |
 | wttd.madeleine-mode.ch | madeleineprod01.wt-eu02.net |
+| wttd.madeleine.co.uk | madeleineprod01.wt-eu02.net |
 | wttd.madeleine.de | madeleineprod01.wt-eu02.net |
 | wttd.madeleine.fr | madeleineprod01.wt-eu02.net |
 | data.mainpost.de | mainpost01.wt-eu02.net |

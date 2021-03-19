@@ -81,6 +81,7 @@
 ||ed.large.be^
 ||ed.large.nl^
 ||eht.endress.com^
+||fiwinet.firmenwissen.de^
 ||mapp.yesstyle.com^
 ||mit.db.com^
 ||mit.dws.com^
@@ -105,11 +106,13 @@
 ||text.benefitsatwork.be^
 ||text.benefitsatwork.ch^
 ||text.convenzioniaziendali.it^
+||text.mitarbeiterangebote.at^
 ||text.rahmenvereinbarungen.de^
 ||tippcom01.tipp24.com^
 ||tr.computeruniverse.net^
 ||tr.suedkurier.de^
 ||trk.blume2000.de^
+||trk.nuernberger.digital^
 ||w7.berlin.de^
 ||wa.planet-wissen.de^
 ||wa.quarks.de^
@@ -121,6 +124,7 @@
 ||waaf1.alditalk.de^
 ||waaf1.hoferfotos.at^
 ||wbtrkk.deutschlandcard.de^
+||wbtrkk.teufel.ch^
 ||wbtrkk.teufel.de^
 ||wbtrkk.teufelaudio.at^
 ||wbtrkk.teufelaudio.com^
@@ -140,6 +144,7 @@
 ||web.news.eprice.it^
 ||web.newsletter.viviennewestwood.com^
 ||web.x.ilpost.it^
+||webmet.creditreform.de^
 ||wetr.sportscheck.com^
 ||wt.envivas.de^
 ||wt.generali.de^
@@ -153,5 +158,6 @@
 ||wttd.madeleine-fashion.nl^
 ||wttd.madeleine-mode.at^
 ||wttd.madeleine-mode.ch^
+||wttd.madeleine.co.uk^
 ||wttd.madeleine.de^
 ||wttd.madeleine.fr^

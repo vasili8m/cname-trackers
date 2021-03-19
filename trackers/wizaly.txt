@@ -16,6 +16,7 @@
 ||tk.little-big-change.com^
 ||tk.lulli-sur-la-toile.com^
 ||tk.msccruises.com^
+||tk.nhlottery.com^
 ||tk.ornikar.com^
 ||tk.prismashop.fr^
 ||tk.salomon.com^
