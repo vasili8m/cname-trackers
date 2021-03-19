@@ -43,7 +43,7 @@ const getRemoved = (oldInfo, newInfo) => {
     return removed;
 };
 
-const resolve = async (disguise) => {
+const resolveCname = async (disguise) => {
     let res;
     try {
         res = await dnsPromises.resolveCname(disguise);
@@ -53,20 +53,38 @@ const resolve = async (disguise) => {
     return res;
 };
 
-const validateCname = async (disguise, tracker) => {
-    const RETRY_TIMOUT_MS = 10 * 1000;
-    let res = await resolve(disguise);
-
-    // if cname resolving failed, check it one more time
+const resolveCnameWithRetry = async (disguise) => {
+    const RETRY_TIMOUT_MS = 5 * 1000;
+    let res = await resolveCname(disguise);
+    // if cname resolving failed, check it few more times
     if (res === null) {
         await sleep(RETRY_TIMOUT_MS);
-        res = await resolve(disguise);
+        res = await resolveCname(disguise);
     }
+    if (res === null) {
+        await sleep(RETRY_TIMOUT_MS);
+        res = await resolveCname(disguise);
+    }
+    return res;
+};
 
-    if (!res) {
-        throw new Error(`Cname checking failed on { ${disguise} : ${tracker} }`);
+const getCnamesChain = async (disguise, acc = []) => {
+    const res = await resolveCnameWithRetry(disguise);
+    // collect cnames until there is no one left
+    if (res !== null) {
+        // domain can have only one canonical name
+        acc.push(res[0]);
+        await getCnamesChain(res[0], acc);
     }
-    return res.includes(tracker);
+    return acc;
+};
+
+const validateCname = async (disguise, tracker) => {
+    const cnameChain = await getCnamesChain(disguise);
+    if (!cnameChain.length) {
+        throw new Error(`No cname found for "${disguise}"`);
+    }
+    return cnameChain.includes(tracker);
 };
 
 const getValidPairsFromRemoved = async (removedInfo) => {
@@ -114,9 +132,27 @@ const getSortedByDisguisesObj = (entries) => {
     return Object.fromEntries(sorted);
 };
 
-const stashInfoPairs = (pairs) => {
-    const infoEntries = pairsToEntries(pairs);
-    return getSortedByDisguisesObj(infoEntries);
+const replaceFinalCname = async (entries) => {
+    // needed for recovering trackers for failed final cname checking
+    const reservedData = Object.fromEntries(entries);
+    const disguises = Object.keys(reservedData);
+    const uniqDisguises = [...new Set(disguises)];
+    // check final cnames only for unique disguises
+    const finalEntries = await Promise.all(uniqDisguises
+        .map(async (disguise) => {
+            const cnameChain = await getCnamesChain(disguise);
+            let finalCname = cnameChain[cnameChain.length - 1];
+            if (!finalCname) {
+                finalCname = reservedData[disguise];
+            }
+            return [disguise, finalCname];
+        }));
+    return finalEntries;
+};
+
+const stashInfoPairs = async (pairs) => {
+    const finalEntries = await replaceFinalCname(pairsToEntries(pairs));
+    return getSortedByDisguisesObj(finalEntries);
 };
 
 module.exports = {

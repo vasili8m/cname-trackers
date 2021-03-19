@@ -37,7 +37,7 @@ const main = async () => {
         try {
             const companyFileName = formatFilename(companyName);
             const mergedDomainInfoPairs = await mergeDomainsInfo(companyFileName, domainsInfo);
-            const stashedInfo = stashInfoPairs(mergedDomainInfoPairs);
+            const stashedInfo = await stashInfoPairs(mergedDomainInfoPairs);
             await fs.writeFile(
                 path.resolve(__dirname, TRACKERS_DIR, `${companyFileName}.json`),
                 JSON.stringify(stashedInfo, null, 2),
