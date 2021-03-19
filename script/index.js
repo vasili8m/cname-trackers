@@ -37,11 +37,18 @@ const main = async () => {
         try {
             const companyFileName = formatFilename(companyName);
             const mergedDomainInfoPairs = await mergeDomainsInfo(companyFileName, domainsInfo);
-            const stashedInfo = await stashInfoPairs(mergedDomainInfoPairs);
-            await fs.writeFile(
-                path.resolve(__dirname, TRACKERS_DIR, `${companyFileName}.json`),
-                JSON.stringify(stashedInfo, null, 2),
-            );
+
+            const spinner = ora({ indent: 2 }).start(`Stashing ${companyName} info with final cname to json file`);
+            try {
+                const stashedInfo = await stashInfoPairs(mergedDomainInfoPairs);
+                spinner.succeed(`Successfully stashed data for ${companyName}`);
+                await fs.writeFile(
+                    path.resolve(__dirname, TRACKERS_DIR, `${companyFileName}.json`),
+                    JSON.stringify(stashedInfo, null, 2),
+                );
+            } catch (e) {
+                spinner.fail(`Failed to shash data data for ${companyName}`);
+            }
 
             const sortedMergedInfo = sortMergedInfo(mergedDomainInfoPairs, domains);
             const cloakingInfo = {
