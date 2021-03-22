@@ -77,6 +77,7 @@
 ||betaclassic.net.daraz.com^
 ||bgu-sso-dev.net.daraz.com^
 ||bgu-sso-gateway.net.daraz.com^
+||bgu-sso.net.daraz.com^
 ||bgu-sso.stage.net.daraz.com^
 ||bgu-sso.trial.net.daraz.com^
 ||bgu-ssoadmin.net.daraz.com^
@@ -97,6 +98,7 @@
 ||brandbollyshare.net.daraz.com^
 ||c.ns.emailvision.net.daraz.com^
 ||captchaclub-prod.net.daraz.com^
+||captchaclub.net.daraz.com^
 ||captchaclub.promo.net.daraz.com^
 ||captchaclub.satta-matka.net.daraz.com^
 ||captchaclub.server.net.daraz.com^
@@ -162,6 +164,7 @@
 ||craftmodmetrics.net.daraz.com^
 ||craftmodsvc.net.daraz.com^
 ||craftmodtomcat.net.daraz.com^
+||cs-utils-rtr.net.daraz.com^
 ||cs3-staff.net.daraz.com^
 ||csadmins-staff.net.daraz.com^
 ||csapac-staff.net.daraz.com^
@@ -169,6 +172,7 @@
 ||csprod-promo.net.daraz.com^
 ||csprod-ss.csprod-ss.net.daraz.com^
 ||csprod-ss.javsex.net.daraz.com^
+||csprod-ss.net.daraz.com^
 ||csprod-staff-management.net.daraz.com^
 ||csprod-staff.net.daraz.com^
 ||csprod-staffhwcdn.net.daraz.com^
@@ -188,6 +192,7 @@
 ||ddmix-history.net.daraz.com^
 ||ddmix-w3.net.daraz.com^
 ||ddmix.management.net.daraz.com^
+||decimo.product.fidormarket.com^
 ||demo.teva.net.daraz.com^
 ||dev.teva.net.daraz.com^
 ||developer.wix.net.daraz.com^
@@ -217,6 +222,7 @@
 ||documentstamilrasigan.net.daraz.com^
 ||doitruy-electraltd.net.daraz.com^
 ||doitruy.captchaclub.net.daraz.com^
+||doitruy.net.daraz.com^
 ||doitruymachine.net.daraz.com^
 ||ebs-hackstore.net.daraz.com^
 ||ebs.csprod-staff.net.daraz.com^
@@ -346,6 +352,7 @@
 ||global.srv.net.daraz.com^
 ||globalintel.net.daraz.com^
 ||grabhack-mirror.net.daraz.com^
+||grabhack.net.daraz.com^
 ||grabhack.node.net.daraz.com^
 ||grabhack.reset.net.daraz.com^
 ||grabhack.skins.net.daraz.com^
@@ -359,6 +366,7 @@
 ||hasani.gw.net.daraz.com^
 ||hasani.iad.net.daraz.com^
 ||hasani.kubernetes.net.daraz.com^
+||hasani.net.daraz.com^
 ||hasani.webapp.net.daraz.com^
 ||hcmprod-staff.net.daraz.com^
 ||history-captchaclub.net.daraz.com^
@@ -406,6 +414,7 @@
 ||jilhub-get.net.daraz.com^
 ||jilhub.chef.net.daraz.com^
 ||jilhubdisabled.net.daraz.com^
+||joatoon.net.daraz.com^
 ||k8s-dev-teva.net.daraz.com^
 ||k8s-dev.cointoon.net.daraz.com^
 ||k8s-prd.123seks.net.daraz.com^
@@ -443,6 +452,7 @@
 ||legacy-hasani.net.daraz.com^
 ||legacy-www.ysr.net.daraz.com^
 ||legacy.doa55-raptelechargement.net.daraz.com^
+||legacy.net.daraz.com^
 ||lib-ln-1.net.daraz.com^
 ||lib-oa-2.net.daraz.com^
 ||localhost.net.daraz.com^
@@ -461,6 +471,7 @@
 ||manage.moviesmobile.net.daraz.com^
 ||managementgrabhack.net.daraz.com^
 ||marketidm.net.daraz.com^
+||marketing.ingenious.cloud^
 ||marketing.net.24-ads.com^
 ||marketing.net.brillen.at^
 ||marketing.net.brillen.com^
@@ -492,6 +503,7 @@
 ||marketing.net.occhiali24.it^
 ||marketing.net.ocm.de^
 ||marketing.net.specsfactory.co.uk^
+||marketing.net.steiner-vision.de^
 ||marketing.net.voopter.com.br^
 ||marketing.net.vsgamers.es^
 ||marketing.net.wink.es^
@@ -502,6 +514,7 @@
 ||marketing.net.zooplus.it^
 ||marketing.net.zooplus.nl^
 ||marketing.net.zooroyal.at^
+||marketing.net.zooroyal.cz^
 ||marketing.net.zooroyal.de^
 ||marketing.r.niwepa.com^
 ||marketing.tr.netsalesmedia.pl^
@@ -574,6 +587,7 @@
 ||naruspot-svc.net.daraz.com^
 ||naruspot.cdn.net.daraz.com^
 ||naruspot.mail.net.daraz.com^
+||naruspot.net.daraz.com^
 ||naruspotw3.net.daraz.com^
 ||nautilus-katmoviehd.net.daraz.com^
 ||nautilus.craftmod.net.daraz.com^
@@ -770,6 +784,7 @@
 ||testing-sso.net.daraz.com^
 ||teva-nautilus.net.daraz.com^
 ||teva-prd.net.daraz.com^
+||teva.net.daraz.com^
 ||teva.php.net.daraz.com^
 ||tmvplay-kubectl.net.daraz.com^
 ||tmvplay.confluence.net.daraz.com^
@@ -833,6 +848,7 @@
 ||vidoza-nautilus.net.daraz.com^
 ||vidoza.legacy.net.daraz.com^
 ||vpnelectraltd.net.daraz.com^
+||w-htgb-a.net.daraz.com^
 ||w3-tmvplay.net.daraz.com^
 ||w3ort.net.daraz.com^
 ||webapp-digitalvoice.net.daraz.com^
@@ -849,6 +865,7 @@
 ||www-nautilus.net.daraz.com^
 ||www.chefysr.net.daraz.com^
 ||www.kube-ysr.net.daraz.com^
+||www.net.daraz.com^
 ||www.staging.ysr.net.daraz.com^
 ||www.ysr-4.net.daraz.com^
 ||www.ysr.disabled.net.daraz.com^

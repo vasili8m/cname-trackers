@@ -5,20 +5,20 @@
 * affex.org
     * cdn-elogia-net.affex.org
     * daraz-com.affex.org
-    * jumia-ci.affex.org
-    * jumia-com-eg.affex.org
+    * ingenious-cloud.affex.org
     * lb1.affex.org
     * niwepa-com.affex.org
     * tr-akipam-com.affex.org
     * tr-brillen-at.affex.org
     * tr-brillen-de.affex.org
     * tr-brillen-pl.affex.org
-    * tr-daraz-com-bd.affex.org
-    * tr-daraz-lk.affex.org
+    * tr-eficads-com.affex.org
     * tr-elogia-net.affex.org
     * tr-fidor-de.affex.org
+    * tr-fidormarket-com.affex.org
     * tr-gafas-es.affex.org
     * tr-home24-at.affex.org
+    * tr-home24-be.affex.org
     * tr-home24-ch.affex.org
     * tr-home24-de.affex.org
     * tr-home24-fr.affex.org
@@ -26,17 +26,14 @@
     * tr-home24-nl.affex.org
     * tr-idealo-partner-com.affex.org
     * tr-jakuli-com.affex.org
-    * tr-jumia-ci.affex.org
     * tr-jumia-co-ke.affex.org
     * tr-jumia-com-eg.affex.org
     * tr-jumia-com-gh.affex.org
     * tr-jumia-ma.affex.org
     * tr-krankenkassenzentrale-de.affex.org
-    * tr-kredito24-es.affex.org
     * tr-kredito24-ru.affex.org
     * tr-lafamo-com.affex.org
     * tr-logitravel-com.affex.org
-    * tr-monedo-es.affex.org
     * tr-monedo-pl.affex.org
     * tr-netsalesmedia-pl.affex.org
     * tr-niwepa-com.affex.org
@@ -45,449 +42,50 @@
     * tr-penny-de.affex.org
     * tr-powuta-com.affex.org
     * tr-rewe-de.affex.org
+    * tr-steiner-vision-de.affex.org
     * tr-toom-de.affex.org
-    * tr-voopter-com-br.affex.org
     * tr-wink-es.affex.org
     * tr-x24factory-com.affex.org
     * tr-zooplus-de.affex.org
     * tr-zooplus-es.affex.org
-    * tr-zooplus-it.affex.org
+    * tr-zooplus-fr.affex.org
     * tr-zooplus-nl.affex.org
     * tr-zooroyal-at.affex.org
+    * tr-zooroyal-cz.affex.org
     * tr-zooroyal-de.affex.org
-    * wink-es.affex.org
 
 ## Cloaking domains
 
 | Disguise | Tracker |
 | ---- | ---- |
 | cdn.net.elogia.net | cdn-elogia-net.affex.org |
-| 01.craftmod.net.daraz.com | daraz-com.affex.org |
-| 01naruspot.net.daraz.com | daraz-com.affex.org |
-| 02-github.global.ssl.fastly.net.daraz.com | daraz-com.affex.org |
-| 1.vercomicporno.net.daraz.com | daraz-com.affex.org |
 | 114-track.net.daraz.com | daraz-com.affex.org |
-| 123seks.administrator.net.daraz.com | daraz-com.affex.org |
 | 123seks.net.daraz.com | daraz-com.affex.org |
-| 123seks.net.net.daraz.com | daraz-com.affex.org |
-| 123seks.prd.net.daraz.com | daraz-com.affex.org |
-| 2-github.global.ssl.fastly.net.daraz.com | daraz-com.affex.org |
-| 3.toonget.net.daraz.com | daraz-com.affex.org |
-| 4.gfxtra.net.daraz.com | daraz-com.affex.org |
-| 9-secure.net.daraz.com | daraz-com.affex.org |
-| account.playtime4you.net.daraz.com | daraz-com.affex.org |
-| accountingvercomicporno.net.daraz.com | daraz-com.affex.org |
-| administrator-jilhub.net.daraz.com | daraz-com.affex.org |
-| administratoresportesdasorte.net.daraz.com | daraz-com.affex.org |
-| administratorswix.net.daraz.com | daraz-com.affex.org |
-| admins.doa55-raptelechargement.net.daraz.com | daraz-com.affex.org |
-| apac-asp.net.daraz.com | daraz-com.affex.org |
-| apache-asp.net.daraz.com | daraz-com.affex.org |
-| apache-tmvplay.net.daraz.com | daraz-com.affex.org |
-| apidocs-intel.net.daraz.com | daraz-com.affex.org |
-| asp-search.net.daraz.com | daraz-com.affex.org |
-| asp.tester.net.daraz.com | daraz-com.affex.org |
-| aspesportesdasorte.net.daraz.com | daraz-com.affex.org |
-| aspget.net.daraz.com | daraz-com.affex.org |
-| atid-paywall.net.daraz.com | daraz-com.affex.org |
-| atid-priv.net.daraz.com | daraz-com.affex.org |
-| atid.ids.net.daraz.com | daraz-com.affex.org |
-| atid4.net.daraz.com | daraz-com.affex.org |
-| atidingress.net.daraz.com | daraz-com.affex.org |
-| atidmoviesraja.net.daraz.com | daraz-com.affex.org |
-| authenticationmicrosoft.net.daraz.com | daraz-com.affex.org |
-| betaclassic.net.daraz.com | daraz-com.affex.org |
-| billing-gfxtra.net.daraz.com | daraz-com.affex.org |
-| billing-mhb-dhcp.net.daraz.com | daraz-com.affex.org |
-| billing-moviesraja.net.daraz.com | daraz-com.affex.org |
-| billingjilhub.net.daraz.com | daraz-com.affex.org |
-| c.ns.emailvision.net.daraz.com | daraz-com.affex.org |
-| car10.net.daraz.com | daraz-com.affex.org |
-| cdn.raagtune.net.daraz.com | daraz-com.affex.org |
-| certidm.net.daraz.com | daraz-com.affex.org |
-| classic-api.net.daraz.com | daraz-com.affex.org |
-| classic-team.net.daraz.com | daraz-com.affex.org |
-| classic.10.net.daraz.com | daraz-com.affex.org |
-| classic.alpha.net.daraz.com | daraz-com.affex.org |
-| classic.apache.net.daraz.com | daraz-com.affex.org |
-| classic.devs.net.daraz.com | daraz-com.affex.org |
-| classic.wix.net.daraz.com | daraz-com.affex.org |
-| classicci.net.daraz.com | daraz-com.affex.org |
-| cloud-atid.net.daraz.com | daraz-com.affex.org |
-| cloud.ddmix.net.daraz.com | daraz-com.affex.org |
-| cloudfrontconbert2mp3.net.daraz.com | daraz-com.affex.org |
-| cointoonkatmoviehd.net.daraz.com | daraz-com.affex.org |
-| cointoonmicrosoft.net.daraz.com | daraz-com.affex.org |
-| conbert2mp3-management.net.daraz.com | daraz-com.affex.org |
-| conbert2mp3-security.net.daraz.com | daraz-com.affex.org |
-| conbert2mp3.conbert2mp3.net.daraz.com | daraz-com.affex.org |
-| conbert2mp3.ext.net.daraz.com | daraz-com.affex.org |
-| conbert2mp3.net.daraz.com | daraz-com.affex.org |
-| conbert2mp3.old.net.daraz.com | daraz-com.affex.org |
-| conbert2mp3bucket.net.daraz.com | daraz-com.affex.org |
-| conbert2mp3nautilus.net.daraz.com | daraz-com.affex.org |
-| container-tmvplay.net.daraz.com | daraz-com.affex.org |
-| container.vansax.net.daraz.com | daraz-com.affex.org |
-| control-staff.net.daraz.com | daraz-com.affex.org |
-| control-vercomicporno.net.daraz.com | daraz-com.affex.org |
-| control.global.ssl.fastly.net.daraz.com | daraz-com.affex.org |
-| corp.playtime4you.net.daraz.com | daraz-com.affex.org |
-| craftmod-skins.net.daraz.com | daraz-com.affex.org |
-| craftmod.cloud.net.daraz.com | daraz-com.affex.org |
-| craftmod.control.net.daraz.com | daraz-com.affex.org |
-| craftmod.docker.net.daraz.com | daraz-com.affex.org |
-| craftmod.login.net.daraz.com | daraz-com.affex.org |
-| craftmod.mhb-dhcp.net.daraz.com | daraz-com.affex.org |
-| craftmod.service.net.daraz.com | daraz-com.affex.org |
-| craftmodcontainer.net.daraz.com | daraz-com.affex.org |
-| craftmodmetrics.net.daraz.com | daraz-com.affex.org |
-| craftmodsvc.net.daraz.com | daraz-com.affex.org |
-| craftmodtomcat.net.daraz.com | daraz-com.affex.org |
-| cs3-staff.net.daraz.com | daraz-com.affex.org |
-| csadmins-staff.net.daraz.com | daraz-com.affex.org |
-| csapac-staff.net.daraz.com | daraz-com.affex.org |
-| csprod-confluence.net.daraz.com | daraz-com.affex.org |
-| csprod-promo.net.daraz.com | daraz-com.affex.org |
-| csprod-staff-management.net.daraz.com | daraz-com.affex.org |
-| csprod-staff.net.daraz.com | daraz-com.affex.org |
-| csprod-staffhwcdn.net.daraz.com | daraz-com.affex.org |
-| csprod-stafftrial.net.daraz.com | daraz-com.affex.org |
-| csprod-testing.net.daraz.com | daraz-com.affex.org |
-| csprod.conbert2mp3.net.daraz.com | daraz-com.affex.org |
-| csprodesportesdasorte.net.daraz.com | daraz-com.affex.org |
-| csprodintel.net.daraz.com | daraz-com.affex.org |
-| csr31.net.daraz.com | daraz-com.affex.org |
-| csstats-staff.net.daraz.com | daraz-com.affex.org |
-| dashboardgfxtra.net.daraz.com | daraz-com.affex.org |
-| ddmix-administrators.net.daraz.com | daraz-com.affex.org |
-| ddmix-apiserver.net.daraz.com | daraz-com.affex.org |
-| ddmix-history.net.daraz.com | daraz-com.affex.org |
-| ddmix-w3.net.daraz.com | daraz-com.affex.org |
-| ddmix.management.net.daraz.com | daraz-com.affex.org |
-| demo.teva.net.daraz.com | daraz-com.affex.org |
-| dev.teva.net.daraz.com | daraz-com.affex.org |
-| developer.wix.net.daraz.com | daraz-com.affex.org |
-| devintel.net.daraz.com | daraz-com.affex.org |
-| doa55-payment.net.daraz.com | daraz-com.affex.org |
-| doa55-raptelechargement.elastic.net.daraz.com | daraz-com.affex.org |
-| doa55-raptelechargement.hackstore.net.daraz.com | daraz-com.affex.org |
-| doa55-raptelechargement.reset.net.daraz.com | daraz-com.affex.org |
-| doa55-restricted.net.daraz.com | daraz-com.affex.org |
-| doa55-staff.net.daraz.com | daraz-com.affex.org |
-| doa55-system.net.daraz.com | daraz-com.affex.org |
-| docker.srv.net.daraz.com | daraz-com.affex.org |
-| dockeratid.net.daraz.com | daraz-com.affex.org |
-| docs-esportesdasorte.net.daraz.com | daraz-com.affex.org |
-| docsdrop-katmoviehd.net.daraz.com | daraz-com.affex.org |
-| docskatmoviehd.net.daraz.com | daraz-com.affex.org |
-| document.github.global.ssl.fastly.net.daraz.com | daraz-com.affex.org |
-| documentatid.net.daraz.com | daraz-com.affex.org |
-| ebs-hackstore.net.daraz.com | daraz-com.affex.org |
-| ebs.csprod-staff.net.daraz.com | daraz-com.affex.org |
-| ebshackstore.net.daraz.com | daraz-com.affex.org |
-| elasticbeanstalk-playtime4you.net.daraz.com | daraz-com.affex.org |
-| elasticmoviesraja.net.daraz.com | daraz-com.affex.org |
-| emea-raagtune.net.daraz.com | daraz-com.affex.org |
-| escortbabylon.net.daraz.com | daraz-com.affex.org |
-| esportesdasorte-authorization.net.daraz.com | daraz-com.affex.org |
-| esportesdasorte-azure.net.daraz.com | daraz-com.affex.org |
-| esportesdasorte-development.net.daraz.com | daraz-com.affex.org |
-| esportesdasorte-events.net.daraz.com | daraz-com.affex.org |
-| esportesdasorte.active.net.daraz.com | daraz-com.affex.org |
-| esportesdasorte.adm.net.daraz.com | daraz-com.affex.org |
-| esportesdasorte.net.daraz.com | daraz-com.affex.org |
-| esportesdasorte.page.net.daraz.com | daraz-com.affex.org |
-| esportesdasorte.train.net.daraz.com | daraz-com.affex.org |
-| esportesdasorteapplications.net.daraz.com | daraz-com.affex.org |
-| esportesdasortehackstore.net.daraz.com | daraz-com.affex.org |
-| esportesdasortekubectl.net.daraz.com | daraz-com.affex.org |
-| eup-applications.net.daraz.com | daraz-com.affex.org |
-| eup-lab.net.daraz.com | daraz-com.affex.org |
-| eup-prd.net.daraz.com | daraz-com.affex.org |
-| eup-tpe.net.daraz.com | daraz-com.affex.org |
-| eup.development.net.daraz.com | daraz-com.affex.org |
-| eup.legacy.net.daraz.com | daraz-com.affex.org |
-| eup.net.daraz.com | daraz-com.affex.org |
-| eupcvs.net.daraz.com | daraz-com.affex.org |
-| eupgh.net.daraz.com | daraz-com.affex.org |
-| eupresetdata.net.daraz.com | daraz-com.affex.org |
-| events.teva.net.daraz.com | daraz-com.affex.org |
-| ext.info.net.daraz.com | daraz-com.affex.org |
-| fastlyconbert2mp3.net.daraz.com | daraz-com.affex.org |
-| fileidm.net.daraz.com | daraz-com.affex.org |
-| firewall-gfxtra.net.daraz.com | daraz-com.affex.org |
-| firewall.global.ssl.fastly.net.daraz.com | daraz-com.affex.org |
-| firewall.kannadamasti.net.daraz.com | daraz-com.affex.org |
-| firewallkannadamasti.net.daraz.com | daraz-com.affex.org |
-| frontpageintel.net.daraz.com | daraz-com.affex.org |
-| fwclassic.net.daraz.com | daraz-com.affex.org |
-| fwtmvplay.net.daraz.com | daraz-com.affex.org |
-| gateway123seks.net.daraz.com | daraz-com.affex.org |
-| gfxtra.docs.net.daraz.com | daraz-com.affex.org |
-| gfxtra.mail.net.daraz.com | daraz-com.affex.org |
-| gfxtra.net.daraz.com | daraz-com.affex.org |
-| gfxtra.stg.net.daraz.com | daraz-com.affex.org |
-| gfxtra.support.net.daraz.com | daraz-com.affex.org |
-| gfxtradoa55-raptelechargement.net.daraz.com | daraz-com.affex.org |
-| ghcraftmod.net.daraz.com | daraz-com.affex.org |
-| gheup.net.daraz.com | daraz-com.affex.org |
-| ghgfxtra.net.daraz.com | daraz-com.affex.org |
-| gist-atid.net.daraz.com | daraz-com.affex.org |
-| git-esportesdasorte.net.daraz.com | daraz-com.affex.org |
-| github-apiserver.global.ssl.fastly.net.daraz.com | daraz-com.affex.org |
-| github-authorization.global.ssl.fastly.net.daraz.com | daraz-com.affex.org |
-| github.4.global.ssl.fastly.net.daraz.com | daraz-com.affex.org |
-| github.elasticbeanstalkglobal.ssl.fastly.net.daraz.com | daraz-com.affex.org |
-| github.frontpage.ssl.fastly.net.daraz.com | daraz-com.affex.org |
-| github.global-gfxtra.ssl.fastly.net.daraz.com | daraz-com.affex.org |
-| github.global.applications.ssl.fastly.net.daraz.com | daraz-com.affex.org |
-| github.global.chdssl.fastly.net.daraz.com | daraz-com.affex.org |
-| github.global.docker.ssl.fastly.net.daraz.com | daraz-com.affex.org |
-| github.global.katmoviehd.ssl.fastly.net.daraz.com | daraz-com.affex.org |
-| github.global.ssl-github.fastly.net.daraz.com | daraz-com.affex.org |
-| github.global.ssl-profile.fastly.net.daraz.com | daraz-com.affex.org |
-| github.global.ssl-traffic.fastly.net.daraz.com | daraz-com.affex.org |
-| github.global.ssl-train.fastly.net.daraz.com | daraz-com.affex.org |
-| github.global.ssl.client-fastly.net.daraz.com | daraz-com.affex.org |
-| github.global.ssl.fastly-azure.net.daraz.com | daraz-com.affex.org |
-| github.global.ssl.fastly-secure.net.daraz.com | daraz-com.affex.org |
-| github.global.ssl.fastly.fw.net.daraz.com | daraz-com.affex.org |
-| github.global.ssl.fastlycgi.net.daraz.com | daraz-com.affex.org |
-| github.global.ssl.fastlydocsdrop.net.daraz.com | daraz-com.affex.org |
-| github.global.ssl.fw.fastly.net.daraz.com | daraz-com.affex.org |
-| github.global.ssl.internals.net.daraz.com | daraz-com.affex.org |
-| github.global.ssl.mobileclient.net.daraz.com | daraz-com.affex.org |
-| github.global.ssl.origin-fastly.net.daraz.com | daraz-com.affex.org |
-| github.global.ssl.sandbox-fastly.net.daraz.com | daraz-com.affex.org |
-| github.global.ssl.stage.net.daraz.com | daraz-com.affex.org |
-| github.global.ssl.tomcat.fastly.net.daraz.com | daraz-com.affex.org |
-| github.global.sslesportesdasorte.fastly.net.daraz.com | daraz-com.affex.org |
-| github.global.sslmetrics.fastly.net.daraz.com | daraz-com.affex.org |
-| github.globalauthentication.ssl.fastly.net.daraz.com | daraz-com.affex.org |
-| github.globalmetric.ssl.fastly.net.daraz.com | daraz-com.affex.org |
-| github.iad.global.ssl.fastly.net.daraz.com | daraz-com.affex.org |
-| github.labglobal.ssl.fastly.net.daraz.com | daraz-com.affex.org |
-| github.metric-global.ssl.fastly.net.daraz.com | daraz-com.affex.org |
-| github.raptelechargement-global.ssl.fastly.net.daraz.com | daraz-com.affex.org |
-| github.testingglobal.ssl.fastly.net.daraz.com | daraz-com.affex.org |
-| github.train-global.ssl.fastly.net.daraz.com | daraz-com.affex.org |
-| global.srv.net.daraz.com | daraz-com.affex.org |
-| globalintel.net.daraz.com | daraz-com.affex.org |
-| gw-mhb-dhcp.net.daraz.com | daraz-com.affex.org |
-| hackstore-tmvplay.net.daraz.com | daraz-com.affex.org |
-| hackstore.10.net.daraz.com | daraz-com.affex.org |
-| hackstore.info.net.daraz.com | daraz-com.affex.org |
-| hcmprod-staff.net.daraz.com | daraz-com.affex.org |
-| hw.hackstore.net.daraz.com | daraz-com.affex.org |
-| ibm.net.daraz.com | daraz-com.affex.org |
-| idm-ids.net.daraz.com | daraz-com.affex.org |
-| idm-team.net.daraz.com | daraz-com.affex.org |
-| idm.authorization.net.daraz.com | daraz-com.affex.org |
-| idm.csprod.net.daraz.com | daraz-com.affex.org |
-| idmapiserver.net.daraz.com | daraz-com.affex.org |
-| idsclassic.net.daraz.com | daraz-com.affex.org |
-| info-5.net.daraz.com | daraz-com.affex.org |
-| info-admin.net.daraz.com | daraz-com.affex.org |
-| info-administrators.net.daraz.com | daraz-com.affex.org |
-| infomobileclient.net.daraz.com | daraz-com.affex.org |
-| inforedirector.net.daraz.com | daraz-com.affex.org |
-| inforesetdata.net.daraz.com | daraz-com.affex.org |
-| intel.gist.net.daraz.com | daraz-com.affex.org |
-| intel.stats.net.daraz.com | daraz-com.affex.org |
-| intelcustomer.net.daraz.com | daraz-com.affex.org |
-| internalddmix.net.daraz.com | daraz-com.affex.org |
-| internals.teva.net.daraz.com | daraz-com.affex.org |
+| bgu-sso.net.daraz.com | daraz-com.affex.org |
+| captchaclub.net.daraz.com | daraz-com.affex.org |
+| cs-utils-rtr.net.daraz.com | daraz-com.affex.org |
+| csprod-ss.net.daraz.com | daraz-com.affex.org |
+| doitruy.net.daraz.com | daraz-com.affex.org |
+| grabhack.net.daraz.com | daraz-com.affex.org |
+| hasani.net.daraz.com | daraz-com.affex.org |
+| img.net.daraz.com | daraz-com.affex.org |
 | javsex.net.daraz.com | daraz-com.affex.org |
-| jilhub-get.net.daraz.com | daraz-com.affex.org |
-| jilhub.chef.net.daraz.com | daraz-com.affex.org |
-| jilhubdisabled.net.daraz.com | daraz-com.affex.org |
-| k8s-dev-teva.net.daraz.com | daraz-com.affex.org |
-| k8s-dev.cointoon.net.daraz.com | daraz-com.affex.org |
-| k8s-prd.123seks.net.daraz.com | daraz-com.affex.org |
-| k8s-prd.mhb-dhcp.net.daraz.com | daraz-com.affex.org |
-| k8s-prod-classic.net.daraz.com | daraz-com.affex.org |
-| k8satid.net.daraz.com | daraz-com.affex.org |
-| k8smicrosoft.net.daraz.com | daraz-com.affex.org |
-| kannadamasti-firewall.net.daraz.com | daraz-com.affex.org |
-| kannadamasti-scm.net.daraz.com | daraz-com.affex.org |
-| kannadamasti.csprod-staff.net.daraz.com | daraz-com.affex.org |
-| kannadamastielastic.net.daraz.com | daraz-com.affex.org |
-| kannadamastiesportesdasorte.net.daraz.com | daraz-com.affex.org |
-| kannadamastinginx.net.daraz.com | daraz-com.affex.org |
-| kannadamastipaywall.net.daraz.com | daraz-com.affex.org |
-| katmoviehd-nautilus.net.daraz.com | daraz-com.affex.org |
-| katmoviehd.2.net.daraz.com | daraz-com.affex.org |
-| katmoviehd.getter.net.daraz.com | daraz-com.affex.org |
-| katmoviehd.net.daraz.com | daraz-com.affex.org |
-| katmoviehdk8s-prd.net.daraz.com | daraz-com.affex.org |
-| katmoviehdnode.net.daraz.com | daraz-com.affex.org |
-| kube-asp.net.daraz.com | daraz-com.affex.org |
-| kubectl-vansax.net.daraz.com | daraz-com.affex.org |
-| kubernetes.123seks.net.daraz.com | daraz-com.affex.org |
-| latinasp.net.daraz.com | daraz-com.affex.org |
-| lax-123seks.net.daraz.com | daraz-com.affex.org |
-| lbclassic.net.daraz.com | daraz-com.affex.org |
-| legacy-atid.net.daraz.com | daraz-com.affex.org |
-| legacy.doa55-raptelechargement.net.daraz.com | daraz-com.affex.org |
-| localhost.net.daraz.com | daraz-com.affex.org |
-| machine.tmvplay.net.daraz.com | daraz-com.affex.org |
-| mailconbert2mp3.net.daraz.com | daraz-com.affex.org |
-| mailplaytime4you.net.daraz.com | daraz-com.affex.org |
-| marketidm.net.daraz.com | daraz-com.affex.org |
-| merchant-raagtune.net.daraz.com | daraz-com.affex.org |
-| merchant.info.net.daraz.com | daraz-com.affex.org |
-| metric-intel.net.daraz.com | daraz-com.affex.org |
-| metricteva.net.daraz.com | daraz-com.affex.org |
-| metrictmvplay.net.daraz.com | daraz-com.affex.org |
-| mhb-dhcprestricted.net.daraz.com | daraz-com.affex.org |
-| microsoft-metric.net.daraz.com | daraz-com.affex.org |
-| microsoft-paywall.net.daraz.com | daraz-com.affex.org |
-| microsoft.administrators.net.daraz.com | daraz-com.affex.org |
-| microsoft.analytics.net.daraz.com | daraz-com.affex.org |
-| microsoft.info.net.daraz.com | daraz-com.affex.org |
-| microsoft.net.daraz.com | daraz-com.affex.org |
-| microsoftdocsdrop.net.daraz.com | daraz-com.affex.org |
-| moviesraja5.net.daraz.com | daraz-com.affex.org |
-| moviesrajaprofile.net.daraz.com | daraz-com.affex.org |
-| mybooster.net.daraz.com | daraz-com.affex.org |
-| mycoolmoviez.net.daraz.com | daraz-com.affex.org |
-| naruspot-authorization.net.daraz.com | daraz-com.affex.org |
-| naruspot-azure.net.daraz.com | daraz-com.affex.org |
-| naruspot-svc.net.daraz.com | daraz-com.affex.org |
-| naruspot.cdn.net.daraz.com | daraz-com.affex.org |
-| naruspot.mail.net.daraz.com | daraz-com.affex.org |
-| naruspotw3.net.daraz.com | daraz-com.affex.org |
-| nautilus-katmoviehd.net.daraz.com | daraz-com.affex.org |
-| nautilus.craftmod.net.daraz.com | daraz-com.affex.org |
+| joatoon.net.daraz.com | daraz-com.affex.org |
+| legacy.net.daraz.com | daraz-com.affex.org |
+| mail.partner.net.daraz.com | daraz-com.affex.org |
+| naruspot.net.daraz.com | daraz-com.affex.org |
 | net.daraz.com | daraz-com.affex.org |
-| node-esportesdasorte.net.daraz.com | daraz-com.affex.org |
-| ns2.cl.bellsouth.net.daraz.com | daraz-com.affex.org |
-| ns2.twtelecom.net.daraz.com | daraz-com.affex.org |
-| ns2.viviotech.net.daraz.com | daraz-com.affex.org |
-| oidasp.net.daraz.com | daraz-com.affex.org |
-| oidvansax.net.daraz.com | daraz-com.affex.org |
-| opsclassic.net.daraz.com | daraz-com.affex.org |
-| origin.cointoon.net.daraz.com | daraz-com.affex.org |
-| page.naruspot.net.daraz.com | daraz-com.affex.org |
-| panelplaytime4you.net.daraz.com | daraz-com.affex.org |
 | partner.net.daraz.com | daraz-com.affex.org |
-| pass.hackstore.net.daraz.com | daraz-com.affex.org |
-| payment-doa55-raptelechargement.net.daraz.com | daraz-com.affex.org |
-| payment-moviesraja.net.daraz.com | daraz-com.affex.org |
-| paywall.microsoft.net.daraz.com | daraz-com.affex.org |
-| paywall.vercomicporno.net.daraz.com | daraz-com.affex.org |
-| php-eup.net.daraz.com | daraz-com.affex.org |
-| playtime4you-controller.net.daraz.com | daraz-com.affex.org |
-| playtime4you-emea.net.daraz.com | daraz-com.affex.org |
-| playtime4you-toolbar.net.daraz.com | daraz-com.affex.org |
-| playtime4you.2.net.daraz.com | daraz-com.affex.org |
-| playtime4you.authorization.net.daraz.com | daraz-com.affex.org |
-| playtime4you.classic.net.daraz.com | daraz-com.affex.org |
-| playtime4you.ingress.net.daraz.com | daraz-com.affex.org |
-| playtime4you.int.net.daraz.com | daraz-com.affex.org |
-| playtime4youbilling.net.daraz.com | daraz-com.affex.org |
-| playtime4youghcpi.net.daraz.com | daraz-com.affex.org |
-| playtime4younaruspot.net.daraz.com | daraz-com.affex.org |
-| playtime4younorthamerica.net.daraz.com | daraz-com.affex.org |
-| playtime4youoid.net.daraz.com | daraz-com.affex.org |
-| playtime4yousandbox.net.daraz.com | daraz-com.affex.org |
-| prd-info.net.daraz.com | daraz-com.affex.org |
-| prdwix.net.daraz.com | daraz-com.affex.org |
-| production.playtime4you.net.daraz.com | daraz-com.affex.org |
-| profile-raagtune.net.daraz.com | daraz-com.affex.org |
-| promoesportesdasorte.net.daraz.com | daraz-com.affex.org |
+| playtime4you.net.daraz.com | daraz-com.affex.org |
 | r-es-1.net.daraz.com | daraz-com.affex.org |
-| r-ht-2.net.daraz.com | daraz-com.affex.org |
-| r-is-1-2.net.daraz.com | daraz-com.affex.org |
-| r-oa-1.net.daraz.com | daraz-com.affex.org |
-| r-oa-2.net.daraz.com | daraz-com.affex.org |
-| raagtune-authentication.net.daraz.com | daraz-com.affex.org |
-| raagtune-cms.net.daraz.com | daraz-com.affex.org |
-| raagtune-docsdrop.net.daraz.com | daraz-com.affex.org |
-| raagtune-v3.net.daraz.com | daraz-com.affex.org |
-| raagtune.eng.net.daraz.com | daraz-com.affex.org |
-| raagtune.skins.net.daraz.com | daraz-com.affex.org |
-| raagtuneprivate.net.daraz.com | daraz-com.affex.org |
-| redirectsrv.net.daraz.com | daraz-com.affex.org |
-| redirintel.net.daraz.com | daraz-com.affex.org |
-| regioninfo.net.daraz.com | daraz-com.affex.org |
-| repo.mhb-dhcp.net.daraz.com | daraz-com.affex.org |
-| repository.kannadamasti.net.daraz.com | daraz-com.affex.org |
-| resetdata.global.ssl.fastly.net.daraz.com | daraz-com.affex.org |
-| rpc-esportesdasorte.net.daraz.com | daraz-com.affex.org |
-| rpcinfo.net.daraz.com | daraz-com.affex.org |
-| searchkannadamasti.net.daraz.com | daraz-com.affex.org |
-| sec.gfxtra.net.daraz.com | daraz-com.affex.org |
-| secure-reset.net.daraz.com | daraz-com.affex.org |
-| secure.mobile.net.daraz.com | daraz-com.affex.org |
-| secure.portal.net.daraz.com | daraz-com.affex.org |
-| secure.toonget.net.daraz.com | daraz-com.affex.org |
-| securecvs.net.daraz.com | daraz-com.affex.org |
-| secureghcpi.net.daraz.com | daraz-com.affex.org |
-| securesecure.net.daraz.com | daraz-com.affex.org |
 | see-track.net.daraz.com | daraz-com.affex.org |
-| signed.info.net.daraz.com | daraz-com.affex.org |
-| skinscointoon.net.daraz.com | daraz-com.affex.org |
-| srv-traffic.net.daraz.com | daraz-com.affex.org |
-| srv.gitlab.net.daraz.com | daraz-com.affex.org |
-| srv.redirect.net.daraz.com | daraz-com.affex.org |
-| srv.training.net.daraz.com | daraz-com.affex.org |
-| srvdisabled.net.daraz.com | daraz-com.affex.org |
-| srvteam.net.daraz.com | daraz-com.affex.org |
-| srvtest.net.daraz.com | daraz-com.affex.org |
-| ssl.github.global.ssl.fastly.net.daraz.com | daraz-com.affex.org |
-| staff.jilhub.net.daraz.com | daraz-com.affex.org |
-| static-idm.net.daraz.com | daraz-com.affex.org |
-| stats-jilhub.net.daraz.com | daraz-com.affex.org |
-| system.ddmix.net.daraz.com | daraz-com.affex.org |
-| system.kannadamasti.net.daraz.com | daraz-com.affex.org |
-| test-intel.net.daraz.com | daraz-com.affex.org |
-| teva-nautilus.net.daraz.com | daraz-com.affex.org |
-| teva-prd.net.daraz.com | daraz-com.affex.org |
-| teva.php.net.daraz.com | daraz-com.affex.org |
-| tmvplay-kubectl.net.daraz.com | daraz-com.affex.org |
-| tmvplay.confluence.net.daraz.com | daraz-com.affex.org |
-| tmvplayorigin.net.daraz.com | daraz-com.affex.org |
-| tmvplayrepository.net.daraz.com | daraz-com.affex.org |
-| tmvplayw3.net.daraz.com | daraz-com.affex.org |
-| toolbar-conbert2mp3.net.daraz.com | daraz-com.affex.org |
-| toonget-net.net.daraz.com | daraz-com.affex.org |
-| toonget.classic.net.daraz.com | daraz-com.affex.org |
-| tpe-moviesraja.net.daraz.com | daraz-com.affex.org |
+| srv.net.daraz.com | daraz-com.affex.org |
+| teluguking.net.daraz.com | daraz-com.affex.org |
+| teva.net.daraz.com | daraz-com.affex.org |
 | track.net.daraz.com | daraz-com.affex.org |
-| turbopk.net.daraz.com | daraz-com.affex.org |
-| uploadsesportesdasorte.net.daraz.com | daraz-com.affex.org |
-| us.classic.net.daraz.com | daraz-com.affex.org |
-| v.tmvplay.net.daraz.com | daraz-com.affex.org |
-| v1-mhb-dhcp.net.daraz.com | daraz-com.affex.org |
-| v1csprod-staff.net.daraz.com | daraz-com.affex.org |
-| vansax-gh.net.daraz.com | daraz-com.affex.org |
-| vansax-signed.net.daraz.com | daraz-com.affex.org |
-| vansax.123seks.net.daraz.com | daraz-com.affex.org |
-| vansax.developer.net.daraz.com | daraz-com.affex.org |
-| vansax.frontpage.net.daraz.com | daraz-com.affex.org |
-| vansax.naruspot.net.daraz.com | daraz-com.affex.org |
-| vansax.w3.net.daraz.com | daraz-com.affex.org |
-| vansaxmicrosoft.net.daraz.com | daraz-com.affex.org |
-| vansaxprofile.net.daraz.com | daraz-com.affex.org |
-| vcsprod-staff.net.daraz.com | daraz-com.affex.org |
-| vercomicporno-metric.net.daraz.com | daraz-com.affex.org |
-| vercomicporno-vpn.net.daraz.com | daraz-com.affex.org |
-| vercomicporno.toonget.net.daraz.com | daraz-com.affex.org |
-| vercomicporno.w3.net.daraz.com | daraz-com.affex.org |
-| vercomicpornodocker.net.daraz.com | daraz-com.affex.org |
-| vercomicpornojenkins.net.daraz.com | daraz-com.affex.org |
-| w3-tmvplay.net.daraz.com | daraz-com.affex.org |
-| webapp.craftmod.net.daraz.com | daraz-com.affex.org |
-| webmoviesraja.net.daraz.com | daraz-com.affex.org |
-| wix-developer.net.daraz.com | daraz-com.affex.org |
-| wix-production.net.daraz.com | daraz-com.affex.org |
-| wix-tester.net.daraz.com | daraz-com.affex.org |
-| wix.svcgateway.net.daraz.com | daraz-com.affex.org |
-| wixrpc.net.daraz.com | daraz-com.affex.org |
-| www.ysr.net.daraz.com | daraz-com.affex.org |
-| net.jumia.ci | jumia-ci.affex.org |
-| net.jumia.com.eg | jumia-com-eg.affex.org |
+| w-htgb-a.net.daraz.com | daraz-com.affex.org |
+| www.net.daraz.com | daraz-com.affex.org |
+| marketing.ingenious.cloud | ingenious-cloud.affex.org |
 | 01.craftmod.net.daraz.com | lb1.affex.org |
 | 01naruspot.net.daraz.com | lb1.affex.org |
 | 02-github.global.ssl.fastly.net.daraz.com | lb1.affex.org |
@@ -563,6 +161,7 @@
 | betaclassic.net.daraz.com | lb1.affex.org |
 | bgu-sso-dev.net.daraz.com | lb1.affex.org |
 | bgu-sso-gateway.net.daraz.com | lb1.affex.org |
+| bgu-sso.net.daraz.com | lb1.affex.org |
 | bgu-sso.stage.net.daraz.com | lb1.affex.org |
 | bgu-sso.trial.net.daraz.com | lb1.affex.org |
 | bgu-ssoadmin.net.daraz.com | lb1.affex.org |
@@ -583,6 +182,7 @@
 | brandbollyshare.net.daraz.com | lb1.affex.org |
 | c.ns.emailvision.net.daraz.com | lb1.affex.org |
 | captchaclub-prod.net.daraz.com | lb1.affex.org |
+| captchaclub.net.daraz.com | lb1.affex.org |
 | captchaclub.promo.net.daraz.com | lb1.affex.org |
 | captchaclub.satta-matka.net.daraz.com | lb1.affex.org |
 | captchaclub.server.net.daraz.com | lb1.affex.org |
@@ -593,7 +193,6 @@
 | car40.net.daraz.com | lb1.affex.org |
 | careers-escortbabylon.net.daraz.com | lb1.affex.org |
 | cdn.net.elogia.net | lb1.affex.org |
-| cdn.net.wink.es | lb1.affex.org |
 | cdn.net.wink.es | lb1.affex.org |
 | cdn.raagtune.net.daraz.com | lb1.affex.org |
 | cec-formation.net.daraz.com | lb1.affex.org |
@@ -649,6 +248,7 @@
 | craftmodmetrics.net.daraz.com | lb1.affex.org |
 | craftmodsvc.net.daraz.com | lb1.affex.org |
 | craftmodtomcat.net.daraz.com | lb1.affex.org |
+| cs-utils-rtr.net.daraz.com | lb1.affex.org |
 | cs3-staff.net.daraz.com | lb1.affex.org |
 | csadmins-staff.net.daraz.com | lb1.affex.org |
 | csapac-staff.net.daraz.com | lb1.affex.org |
@@ -656,6 +256,7 @@
 | csprod-promo.net.daraz.com | lb1.affex.org |
 | csprod-ss.csprod-ss.net.daraz.com | lb1.affex.org |
 | csprod-ss.javsex.net.daraz.com | lb1.affex.org |
+| csprod-ss.net.daraz.com | lb1.affex.org |
 | csprod-staff-management.net.daraz.com | lb1.affex.org |
 | csprod-staff.net.daraz.com | lb1.affex.org |
 | csprod-staffhwcdn.net.daraz.com | lb1.affex.org |
@@ -675,6 +276,7 @@
 | ddmix-history.net.daraz.com | lb1.affex.org |
 | ddmix-w3.net.daraz.com | lb1.affex.org |
 | ddmix.management.net.daraz.com | lb1.affex.org |
+| decimo.product.fidormarket.com | lb1.affex.org |
 | demo.teva.net.daraz.com | lb1.affex.org |
 | dev.teva.net.daraz.com | lb1.affex.org |
 | developer.wix.net.daraz.com | lb1.affex.org |
@@ -704,6 +306,7 @@
 | documentstamilrasigan.net.daraz.com | lb1.affex.org |
 | doitruy-electraltd.net.daraz.com | lb1.affex.org |
 | doitruy.captchaclub.net.daraz.com | lb1.affex.org |
+| doitruy.net.daraz.com | lb1.affex.org |
 | doitruymachine.net.daraz.com | lb1.affex.org |
 | ebs-hackstore.net.daraz.com | lb1.affex.org |
 | ebs.csprod-staff.net.daraz.com | lb1.affex.org |
@@ -833,6 +436,7 @@
 | global.srv.net.daraz.com | lb1.affex.org |
 | globalintel.net.daraz.com | lb1.affex.org |
 | grabhack-mirror.net.daraz.com | lb1.affex.org |
+| grabhack.net.daraz.com | lb1.affex.org |
 | grabhack.node.net.daraz.com | lb1.affex.org |
 | grabhack.reset.net.daraz.com | lb1.affex.org |
 | grabhack.skins.net.daraz.com | lb1.affex.org |
@@ -846,6 +450,7 @@
 | hasani.gw.net.daraz.com | lb1.affex.org |
 | hasani.iad.net.daraz.com | lb1.affex.org |
 | hasani.kubernetes.net.daraz.com | lb1.affex.org |
+| hasani.net.daraz.com | lb1.affex.org |
 | hasani.webapp.net.daraz.com | lb1.affex.org |
 | hcmprod-staff.net.daraz.com | lb1.affex.org |
 | history-captchaclub.net.daraz.com | lb1.affex.org |
@@ -894,6 +499,7 @@
 | jilhub-get.net.daraz.com | lb1.affex.org |
 | jilhub.chef.net.daraz.com | lb1.affex.org |
 | jilhubdisabled.net.daraz.com | lb1.affex.org |
+| joatoon.net.daraz.com | lb1.affex.org |
 | k8s-dev-teva.net.daraz.com | lb1.affex.org |
 | k8s-dev.cointoon.net.daraz.com | lb1.affex.org |
 | k8s-prd.123seks.net.daraz.com | lb1.affex.org |
@@ -932,6 +538,7 @@
 | legacy-hasani.net.daraz.com | lb1.affex.org |
 | legacy-www.ysr.net.daraz.com | lb1.affex.org |
 | legacy.doa55-raptelechargement.net.daraz.com | lb1.affex.org |
+| legacy.net.daraz.com | lb1.affex.org |
 | lib-ln-1.net.daraz.com | lb1.affex.org |
 | lib-oa-2.net.daraz.com | lb1.affex.org |
 | localhost.net.daraz.com | lb1.affex.org |
@@ -951,6 +558,7 @@
 | manage.moviesmobile.net.daraz.com | lb1.affex.org |
 | managementgrabhack.net.daraz.com | lb1.affex.org |
 | marketidm.net.daraz.com | lb1.affex.org |
+| marketing.ingenious.cloud | lb1.affex.org |
 | marketing.net.24-ads.com | lb1.affex.org |
 | marketing.net.brillen.at | lb1.affex.org |
 | marketing.net.brillen.at | lb1.affex.org |
@@ -960,8 +568,6 @@
 | marketing.net.brillen.pl | lb1.affex.org |
 | marketing.net.brillen.pl | lb1.affex.org |
 | marketing.net.daraz.com.bd | lb1.affex.org |
-| marketing.net.daraz.com.bd | lb1.affex.org |
-| marketing.net.daraz.lk | lb1.affex.org |
 | marketing.net.daraz.lk | lb1.affex.org |
 | marketing.net.daraz.pk | lb1.affex.org |
 | marketing.net.elogia.net | lb1.affex.org |
@@ -972,6 +578,7 @@
 | marketing.net.gafas.es | lb1.affex.org |
 | marketing.net.home24.at | lb1.affex.org |
 | marketing.net.home24.at | lb1.affex.org |
+| marketing.net.home24.be | lb1.affex.org |
 | marketing.net.home24.be | lb1.affex.org |
 | marketing.net.home24.ch | lb1.affex.org |
 | marketing.net.home24.ch | lb1.affex.org |
@@ -986,7 +593,6 @@
 | marketing.net.idealo-partner.com | lb1.affex.org |
 | marketing.net.idealo-partner.com | lb1.affex.org |
 | marketing.net.jumia.ci | lb1.affex.org |
-| marketing.net.jumia.ci | lb1.affex.org |
 | marketing.net.jumia.co.ke | lb1.affex.org |
 | marketing.net.jumia.co.ke | lb1.affex.org |
 | marketing.net.jumia.com.eg | lb1.affex.org |
@@ -999,7 +605,6 @@
 | marketing.net.kredito24.ru | lb1.affex.org |
 | marketing.net.kredito24.ru | lb1.affex.org |
 | marketing.net.monedo.es | lb1.affex.org |
-| marketing.net.monedo.es | lb1.affex.org |
 | marketing.net.monedo.pl | lb1.affex.org |
 | marketing.net.monedo.pl | lb1.affex.org |
 | marketing.net.occhiali24.it | lb1.affex.org |
@@ -1007,7 +612,7 @@
 | marketing.net.ocm.de | lb1.affex.org |
 | marketing.net.ocm.de | lb1.affex.org |
 | marketing.net.specsfactory.co.uk | lb1.affex.org |
-| marketing.net.voopter.com.br | lb1.affex.org |
+| marketing.net.steiner-vision.de | lb1.affex.org |
 | marketing.net.voopter.com.br | lb1.affex.org |
 | marketing.net.vsgamers.es | lb1.affex.org |
 | marketing.net.wink.es | lb1.affex.org |
@@ -1019,11 +624,13 @@
 | marketing.net.zooplus.es | lb1.affex.org |
 | marketing.net.zooplus.es | lb1.affex.org |
 | marketing.net.zooplus.fr | lb1.affex.org |
-| marketing.net.zooplus.it | lb1.affex.org |
+| marketing.net.zooplus.fr | lb1.affex.org |
 | marketing.net.zooplus.it | lb1.affex.org |
 | marketing.net.zooplus.nl | lb1.affex.org |
 | marketing.net.zooplus.nl | lb1.affex.org |
 | marketing.net.zooroyal.at | lb1.affex.org |
+| marketing.net.zooroyal.at | lb1.affex.org |
+| marketing.net.zooroyal.cz | lb1.affex.org |
 | marketing.net.zooroyal.de | lb1.affex.org |
 | marketing.net.zooroyal.de | lb1.affex.org |
 | marketing.r.niwepa.com | lb1.affex.org |
@@ -1099,6 +706,7 @@
 | naruspot-svc.net.daraz.com | lb1.affex.org |
 | naruspot.cdn.net.daraz.com | lb1.affex.org |
 | naruspot.mail.net.daraz.com | lb1.affex.org |
+| naruspot.net.daraz.com | lb1.affex.org |
 | naruspotw3.net.daraz.com | lb1.affex.org |
 | nautilus-katmoviehd.net.daraz.com | lb1.affex.org |
 | nautilus.craftmod.net.daraz.com | lb1.affex.org |
@@ -1143,6 +751,7 @@
 | paymentqqdewa.net.daraz.com | lb1.affex.org |
 | paywall.microsoft.net.daraz.com | lb1.affex.org |
 | paywall.vercomicporno.net.daraz.com | lb1.affex.org |
+| perf.af.funneldrivers.com | lb1.affex.org |
 | perf.af.funneldrivers.com | lb1.affex.org |
 | php-eup.net.daraz.com | lb1.affex.org |
 | php.satta-matka.net.daraz.com | lb1.affex.org |
@@ -1302,6 +911,7 @@
 | testing-sso.net.daraz.com | lb1.affex.org |
 | teva-nautilus.net.daraz.com | lb1.affex.org |
 | teva-prd.net.daraz.com | lb1.affex.org |
+| teva.net.daraz.com | lb1.affex.org |
 | teva.php.net.daraz.com | lb1.affex.org |
 | tmvplay-kubectl.net.daraz.com | lb1.affex.org |
 | tmvplay.confluence.net.daraz.com | lb1.affex.org |
@@ -1365,6 +975,7 @@
 | vidoza-nautilus.net.daraz.com | lb1.affex.org |
 | vidoza.legacy.net.daraz.com | lb1.affex.org |
 | vpnelectraltd.net.daraz.com | lb1.affex.org |
+| w-htgb-a.net.daraz.com | lb1.affex.org |
 | w3-tmvplay.net.daraz.com | lb1.affex.org |
 | w3ort.net.daraz.com | lb1.affex.org |
 | webapp-digitalvoice.net.daraz.com | lb1.affex.org |
@@ -1381,6 +992,7 @@
 | www-nautilus.net.daraz.com | lb1.affex.org |
 | www.chefysr.net.daraz.com | lb1.affex.org |
 | www.kube-ysr.net.daraz.com | lb1.affex.org |
+| www.net.daraz.com | lb1.affex.org |
 | www.staging.ysr.net.daraz.com | lb1.affex.org |
 | www.ysr-4.net.daraz.com | lb1.affex.org |
 | www.ysr.disabled.net.daraz.com | lb1.affex.org |
@@ -1399,12 +1011,13 @@
 | marketing.net.brillen.at | tr-brillen-at.affex.org |
 | marketing.net.brillen.de | tr-brillen-de.affex.org |
 | marketing.net.brillen.pl | tr-brillen-pl.affex.org |
-| marketing.net.daraz.com.bd | tr-daraz-com-bd.affex.org |
-| marketing.net.daraz.lk | tr-daraz-lk.affex.org |
+| perf.af.funneldrivers.com | tr-eficads-com.affex.org |
 | marketing.net.elogia.net | tr-elogia-net.affex.org |
 | marketing.net.fidor.de | tr-fidor-de.affex.org |
+| decimo.product.fidormarket.com | tr-fidormarket-com.affex.org |
 | marketing.net.gafas.es | tr-gafas-es.affex.org |
 | marketing.net.home24.at | tr-home24-at.affex.org |
+| marketing.net.home24.be | tr-home24-be.affex.org |
 | marketing.net.home24.ch | tr-home24-ch.affex.org |
 | marketing.net.home24.de | tr-home24-de.affex.org |
 | marketing.net.home24.fr | tr-home24-fr.affex.org |
@@ -1412,17 +1025,14 @@
 | marketing.net.home24.nl | tr-home24-nl.affex.org |
 | marketing.net.idealo-partner.com | tr-idealo-partner-com.affex.org |
 | janus.r.jakuli.com | tr-jakuli-com.affex.org |
-| marketing.net.jumia.ci | tr-jumia-ci.affex.org |
 | marketing.net.jumia.co.ke | tr-jumia-co-ke.affex.org |
 | marketing.net.jumia.com.eg | tr-jumia-com-eg.affex.org |
 | marketing.net.jumia.com.gh | tr-jumia-com-gh.affex.org |
 | marketing.net.jumia.ma | tr-jumia-ma.affex.org |
 | kkz.net.krankenkassenzentrale.de | tr-krankenkassenzentrale-de.affex.org |
-| marketing.net.kredito24.es | tr-kredito24-es.affex.org |
 | marketing.net.kredito24.ru | tr-kredito24-ru.affex.org |
 | luna.r.lafamo.com | tr-lafamo-com.affex.org |
 | ssl.affiliate.logitravel.com | tr-logitravel-com.affex.org |
-| marketing.net.monedo.es | tr-monedo-es.affex.org |
 | marketing.net.monedo.pl | tr-monedo-pl.affex.org |
 | marketing.tr.netsalesmedia.pl | tr-netsalesmedia-pl.affex.org |
 | nsm.tr.netsalesmedia.pl | tr-netsalesmedia-pl.affex.org |
@@ -1432,14 +1042,14 @@
 | pny.net.penny.de | tr-penny-de.affex.org |
 | pluto.r.powuta.com | tr-powuta-com.affex.org |
 | rw.net.rewe.de | tr-rewe-de.affex.org |
+| marketing.net.steiner-vision.de | tr-steiner-vision-de.affex.org |
 | tbm.net.toom.de | tr-toom-de.affex.org |
-| marketing.net.voopter.com.br | tr-voopter-com-br.affex.org |
 | marketing.net.wink.es | tr-wink-es.affex.org |
 | marketing.net.x24factory.com | tr-x24factory-com.affex.org |
 | marketing.net.zooplus.de | tr-zooplus-de.affex.org |
 | marketing.net.zooplus.es | tr-zooplus-es.affex.org |
-| marketing.net.zooplus.it | tr-zooplus-it.affex.org |
+| marketing.net.zooplus.fr | tr-zooplus-fr.affex.org |
 | marketing.net.zooplus.nl | tr-zooplus-nl.affex.org |
 | marketing.net.zooroyal.at | tr-zooroyal-at.affex.org |
+| marketing.net.zooroyal.cz | tr-zooroyal-cz.affex.org |
 | marketing.net.zooroyal.de | tr-zooroyal-de.affex.org |
-| cdn.net.wink.es | wink-es.affex.org |

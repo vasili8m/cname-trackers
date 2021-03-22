@@ -13,6 +13,8 @@
 | a8.eonet.jp | trck.a8.net |
 | a8.print-netsquare.com | trck.a8.net |
 | a8.shopserve.jp | trck.a8.net |
+| a8.soelu.com | trck.a8.net |
+| a8clk.bstyle.store | trck.a8.net |
 | a8clk.dospara.co.jp | trck.a8.net |
 | a8clk.justy-consul.com | trck.a8.net |
 | a8clk.xserver.ne.jp | trck.a8.net |

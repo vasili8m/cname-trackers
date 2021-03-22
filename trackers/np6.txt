@@ -16,8 +16,10 @@
 ||tr.asp002q.espmp-aufr.net^
 ||tr.asp1.espmp-agfr.net^
 ||tr.asp10ar.espmp-cufr.net^
+||tr.asp10cr.espmp-nifr.net^
 ||tr.asp10hi.espmp-cufr.net^
 ||tr.asp2032.espmp-aufr.net^
+||tr.b2d1.espmp-agfr.net^
 ||tr.b2d1068.espmp-nifr.net^
 ||tr.boletim.meu-orcamento.pt^
 ||tr.business-deal.fr^
@@ -35,6 +37,7 @@
 ||tr.communautes-mediametrie.fr^
 ||tr.communication-comptable.fr^
 ||tr.communication.boursorama.info^
+||tr.communication.groupe-crystal.com^
 ||tr.communication.harmonie-mutuelle.fr^
 ||tr.courrier.charentelibre.fr^
 ||tr.courrier.larepubliquedespyrenees.fr^
@@ -44,6 +47,7 @@
 ||tr.e.trouver-un-logement-neuf.com^
 ||tr.em.cdiscountpro.com^
 ||tr.email.aeroexpo.online^
+||tr.email.custom-campaign.com^
 ||tr.email.directindustry.com^
 ||tr.email.securite-routiere.gouv.fr^
 ||tr.email.virtual-expo.com^
@@ -58,6 +62,7 @@
 ||tr.enedis-infos.fr^
 ||tr.europa-organisation.com^
 ||tr.fr.pro.accor.com^
+||tr.gen.espmp-agfr.net^
 ||tr.gestion.cetelem.fr^
 ||tr.gestion.floa.fr^
 ||tr.groupama-gne.fr^
@@ -72,6 +77,7 @@
 ||tr.info.mavoiturecash.fr^
 ||tr.info.mobibam.com^
 ||tr.info.snpden.net^
+||tr.infolettre.securite-routiere.gouv.fr^
 ||tr.information.fidalformations.fr^
 ||tr.informations.dila.gouv.fr^
 ||tr.informations.harmonie-mutuelle.fr^
@@ -83,7 +89,9 @@
 ||tr.mail.floa.fr^
 ||tr.mail.moncoupdepouce.com^
 ||tr.mailing.achatpublic.com^
+||tr.mailing.lvmhappening.com^
 ||tr.marketing.younited-credit.com^
+||tr.mart.espmp-agfr.net^
 ||tr.melhores-propostas.pt^
 ||tr.mnoc.espmp-nifr.net^
 ||tr.mondevis-pro.com^
@@ -110,6 +118,7 @@
 ||tr.news.lacollection-airfrance.fr^
 ||tr.news.lexpansion.lexpress.fr^
 ||tr.news.lexpress.fr^
+||tr.news.manufacturing.fr^
 ||tr.news.meillandrichardier.com^
 ||tr.news.perfectstay.com^
 ||tr.news.smartdeals-transavia-fr.com^
@@ -123,6 +132,7 @@
 ||tr.newsletter.younited-credit.com^
 ||tr.newsletters.odalys-vacances.com^
 ||tr.notification-gdpr.bnpparibas-personalfinance.fr^
+||tr.notification-gdpr.domofinance.fr^
 ||tr.notification.cdiscount.com^
 ||tr.notification.cetelem.fr^
 ||tr.notification.credit-moderne.fr^
@@ -133,6 +143,7 @@
 ||tr.pole-emploi-services.com^
 ||tr.qualitevehicule.fr^
 ||tr.ra.cofinoga.fr^
+||tr.satisfaction.alinea.com^
 ||tr.satisfaction.groupe-pv-cp.com^
 ||tr.scienceshumaines.info^
 ||tr.scienceshumaines.pro^
@@ -158,4 +169,5 @@
 ||tr.welcome.easyviajar.com^
 ||tr.welcome.moncoupdepouce.com^
 ||tr1.mailperf.com^
+||tr5.mailperf.com^
 ||trpreviews.bp01.net^

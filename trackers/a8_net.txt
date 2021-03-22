@@ -7,6 +7,8 @@
 ||a8.eonet.jp^
 ||a8.print-netsquare.com^
 ||a8.shopserve.jp^
+||a8.soelu.com^
+||a8clk.bstyle.store^
 ||a8clk.dospara.co.jp^
 ||a8clk.justy-consul.com^
 ||a8clk.xserver.ne.jp^

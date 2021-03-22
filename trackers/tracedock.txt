@@ -21,6 +21,7 @@
 ||core.bruynzeelkeukens.nl^
 ||dtch.brunel.nl^
 ||lease.leasevergelijker.nl^
+||tdep.suncamp.de^
 ||tdep.vacansoleil.be^
 ||tdep.vacansoleil.de^
 ||tdep.vacansoleil.dk^

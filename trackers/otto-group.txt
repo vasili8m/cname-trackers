@@ -9,6 +9,7 @@
 ||te.limango.de^
 ||te.mytoys.de^
 ||te.otto.de^
+||te.quelle.de^
 ||te.schlafwelt.de^
 ||te.sheego.de^
 ||te.sieh-an.de^

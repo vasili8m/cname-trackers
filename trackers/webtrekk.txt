@@ -3,6 +3,7 @@
 !
 ! webtrekk.net disguised trackers
 !
+||image.kfw-entwicklungsbank.de^
 ||image.kfw.de^
 ||images1.test.de^
 ||mon.ingservices.nl^
@@ -98,6 +99,7 @@
 ||ot.obi.sk^
 ||pixel.welt.de^
 ||proditor.sparda.de^
+||scout.alpinetrek.co.uk^
 ||scout.bergfreunde.de^
 ||startrekk.flaconi.at^
 ||startrekk.flaconi.pl^

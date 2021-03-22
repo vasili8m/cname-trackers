@@ -15,6 +15,7 @@
     * tk-ornikar-com.wizaly.com
     * tk-salomon-com.wizaly.com
     * tk-svsound-com.wizaly.com
+    * tk-viapresse-com.wizaly.com
     * tk_prismashop_fr.wizaly.com
     * tk_transavia_com.wizaly.com
     * tkairfrance.wizaly.com
@@ -37,6 +38,7 @@
 | tk.ornikar.com | tk-ornikar-com.wizaly.com |
 | tk.salomon.com | tk-salomon-com.wizaly.com |
 | tk.svsound.com | tk-svsound-com.wizaly.com |
+| tk.viapresse.com | tk-viapresse-com.wizaly.com |
 | tk.prismashop.fr | tk_prismashop_fr.wizaly.com |
 | tk.transavia.com | tk_transavia_com.wizaly.com |
 | tk.airfrance.ca | tkairfrance.wizaly.com |

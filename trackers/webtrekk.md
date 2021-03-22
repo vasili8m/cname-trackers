@@ -13,6 +13,7 @@
     * flatex-de01.webtrekk.net
     * heise02.webtrekk.net
     * ingnl04.webtrekk.net
+    * kfw-07.webtrekk.net
     * kfw04.webtrekk.net
     * nuernberger02.webtrekk.net
     * tchibo03.webtrekk.net
@@ -208,8 +209,10 @@
 | da.hornbach.se | hornbach-02.wt-eu02.net |
 | da.hornbach.sk | hornbach-02.wt-eu02.net |
 | app03.ikk-classic.de | ikk-classic-app03.wt-eu02.net |
+| scout.alpinetrek.co.uk | img.bergfreunde.wt-eu02.net |
 | scout.bergfreunde.de | img.bergfreunde.wt-eu02.net |
 | mon.ingservices.nl | ingnl04.webtrekk.net |
+| image.kfw-entwicklungsbank.de | kfw-07.webtrekk.net |
 | image.kfw.de | kfw04.webtrekk.net |
 | wttd.madeleine-fashion.nl | madeleineprod01.wt-eu02.net |
 | wttd.madeleine-mode.at | madeleineprod01.wt-eu02.net |
