@@ -56,11 +56,7 @@ const resolveCname = async (disguise) => {
 const resolveCnameWithRetry = async (disguise) => {
     const RETRY_TIMOUT_MS = 5 * 1000;
     let res = await resolveCname(disguise);
-    // if cname resolving failed, check it few more times
-    if (res === null) {
-        await sleep(RETRY_TIMOUT_MS);
-        res = await resolveCname(disguise);
-    }
+    // if cname resolving failed, check it one more time
     if (res === null) {
         await sleep(RETRY_TIMOUT_MS);
         res = await resolveCname(disguise);
