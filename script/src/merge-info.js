@@ -4,6 +4,7 @@ const {
     pairsToEntries,
     getRemoved,
     getValidPairsFromRemoved,
+    getSortedByDisguisePairs,
 } = require('./helpers');
 
 const TRACKERS_DIR_PATH = '../../trackers';
@@ -24,12 +25,15 @@ const mergeDomainsInfo = async (companyName, fetchedDomainsInfo) => {
     const removedDiff = getRemoved(oldInfo, newInfo);
     const validRemovedPairs = await getValidPairsFromRemoved(removedDiff);
 
-    const merged = [
+    const mergedPairs = [
         ...newInfoPairs,
         ...validRemovedPairs,
     ];
 
-    return merged;
+    const mergedEntries = pairsToEntries(mergedPairs);
+    const sortedPairs = getSortedByDisguisePairs(mergedEntries);
+
+    return sortedPairs;
 };
 
 module.exports = { mergeDomainsInfo };
