@@ -127,7 +127,7 @@ const sortMergedInfo = (mergedInfo, mainDomains) => {
 
 const getSortedByDisguisesObj = (entries) => {
     const sorted = entries
-        // alphabetically sort by disguise which are first in pairs "disguise-tracker"
+        // alphabetically sort by disguise which is first in pairs "disguise-tracker"
         .sort((first, second) => first[0].localeCompare(second[0]));
     return Object.fromEntries(sorted);
 };
