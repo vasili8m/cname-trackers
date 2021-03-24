@@ -36,12 +36,18 @@ ${subDomainsString}`;
     }).join('\n');
 
     const rareDomains = passedInfoDomains.filter((el) => !predefinedDomains.includes(el));
-    const rareDomainsListString = rareDomains
-        .map((el) => `* ${el}`)
-        .join('\n');
-    const rareDomainsString = `### Rarely active trackers
+    let rareDomainsString = '';
 
-${rareDomainsListString}`;
+    if (rareDomains.length) {
+        const rareDomainsListString = rareDomains
+            .map((el) => `* ${el}`)
+            .join('\n');
+        rareDomainsString = `
+### Rarely active trackers
+
+${rareDomainsListString}
+`;
+    }
 
     const cloakedTrackersString = flattedCloakedTrackers
         .sort((a, b) => {
@@ -58,9 +64,7 @@ ${rareDomainsListString}`;
 ## Disguised trackers list
 
 ${domainsString}
-
 ${rareDomainsString}
-
 ## Cloaking domains
 
 | Disguise | Tracker |
