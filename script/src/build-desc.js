@@ -1,6 +1,6 @@
 const { sortAscending } = require('./helpers');
 
-const buildDesc = async (trackersInfo) => {
+const buildDesc = async (trackersInfo, predefinedDomains) => {
     const {
         company_name: companyName,
         domains,
@@ -12,12 +12,16 @@ const buildDesc = async (trackersInfo) => {
 
     const cloakedTrackersDomains = flattedCloakedTrackers.map(({ tracker }) => tracker);
 
-    const domainsString = domains.map(({ domain_name: domainName }) => {
+    const passedInfoDomains = domains.map(({ domain_name: domainName }) => domainName);
+    const knowsDomains = passedInfoDomains.filter((el) => predefinedDomains.includes(el));
+
+    const domainsString = knowsDomains.map((domainName) => {
         const subDomains = cloakedTrackersDomains.filter((domain) => {
             if (domainName === domain) {
                 return false;
             }
-            return domain.endsWith(domainName);
+            // do not consider 'aca.ca-eulerian.net' as a subdomain for 'eulerian.net'
+            return domain.endsWith(`.${domainName}`);
         });
 
         const uniqSubdomains = [...new Set(subDomains)];
@@ -30,6 +34,11 @@ ${subDomainsString}`;
         }
         return `* ${domainName}`;
     }).join('\n');
+
+    const rareDomains = passedInfoDomains.filter((el) => !predefinedDomains.includes(el));
+    const rareDomainsString = rareDomains
+        .map((el) => `* ${el}`)
+        .join('\n');
 
     const cloakedTrackersString = flattedCloakedTrackers
         .sort((a, b) => {
@@ -46,6 +55,10 @@ ${subDomainsString}`;
 ## Disguised trackers list
 
 ${domainsString}
+
+### Rarely active trackers 
+
+${rareDomainsString}
 
 ## Cloaking domains
 

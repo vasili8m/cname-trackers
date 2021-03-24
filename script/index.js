@@ -62,7 +62,7 @@ const main = async () => {
                 domains: sortedMergedInfo,
             };
 
-            const descString = await buildDesc(cloakingInfo);
+            const descString = await buildDesc(cloakingInfo, domains);
             await fs.writeFile(path.resolve(__dirname, TRACKERS_DIR, `${companyFileName}.md`), descString);
             const rulesString = await buildRules(cloakingInfo);
             await fs.writeFile(path.resolve(__dirname, TRACKERS_DIR, `${companyFileName}.txt`), rulesString);
