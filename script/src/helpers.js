@@ -121,11 +121,17 @@ const sortMergedInfo = (mergedInfo, mainDomains) => {
     return sorted;
 };
 
-const getSortedByDisguisePairs = (entries) => {
-    const sortedEntries = entries
-        // alphabetically sort by disguise which is first in entries pair [disguise, tracker]
-        .sort((firstEl, secondEl) => firstEl[0].localeCompare(secondEl[0]));
-    return sortedEntries.map(([disguise, tracker]) => ({ disguise, tracker }));
+const getOrderedByDisguisePairs = (entries) => {
+    // remove duplicates of disguise
+    const unorderedObj = Object.fromEntries(entries);
+    const orderedPairs = Object.keys(unorderedObj)
+        .sort()
+        .map((disguise) => {
+            const tracker = unorderedObj[disguise];
+            const pairObj = { disguise, tracker };
+            return pairObj;
+        });
+    return orderedPairs;
 };
 
 const replaceFinalCname = async (entries) => {
@@ -160,5 +166,5 @@ module.exports = {
     sortMergedInfo,
     pairsToEntries,
     stashInfoPairs,
-    getSortedByDisguisePairs,
+    getOrderedByDisguisePairs,
 };

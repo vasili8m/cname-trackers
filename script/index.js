@@ -2,7 +2,11 @@
 const { promises: fs } = require('fs');
 const path = require('path');
 const ora = require('ora');
-const { formatFilename, sortMergedInfo, stashInfoPairs } = require('./src/helpers');
+const {
+    formatFilename,
+    sortMergedInfo,
+    stashInfoPairs,
+} = require('./src/helpers');
 const { TRACKERS_DIR } = require('./config');
 const { buildRules } = require('./src/build-rules');
 const { buildDesc } = require('./src/build-desc');
@@ -36,18 +40,20 @@ const main = async () => {
 
         try {
             const companyFileName = formatFilename(companyName);
-            const mergedDomainInfoPairs = await mergeDomainsInfo(companyFileName, domainsInfo);
+            const spinner = ora({ indent: 2 }).start(`Merging ${companyName} info and stashing it with final cname to json file`);
 
-            const spinner = ora({ indent: 2 }).start(`Stashing ${companyName} info with final cname to json file`);
+            let mergedDomainInfoPairs;
+
             try {
+                mergedDomainInfoPairs = await mergeDomainsInfo(companyFileName, domainsInfo);
                 const stashedInfo = await stashInfoPairs(mergedDomainInfoPairs);
-                spinner.succeed(`Successfully stashed data for ${companyName}`);
+                spinner.succeed(`${companyName} data successfully merged and stashed`);
                 await fs.writeFile(
                     path.resolve(__dirname, TRACKERS_DIR, `${companyFileName}.json`),
                     JSON.stringify(stashedInfo, null, 2),
                 );
             } catch (e) {
-                spinner.fail(`Failed to shash data data for ${companyName}`);
+                spinner.fail(`Failed to merge and stash data for ${companyName}`);
             }
 
             const sortedMergedInfo = sortMergedInfo(mergedDomainInfoPairs, domains);
