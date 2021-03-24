@@ -36,9 +36,12 @@ ${subDomainsString}`;
     }).join('\n');
 
     const rareDomains = passedInfoDomains.filter((el) => !predefinedDomains.includes(el));
-    const rareDomainsString = rareDomains
+    const rareDomainsListString = rareDomains
         .map((el) => `* ${el}`)
         .join('\n');
+    const rareDomainsString = `### Rarely active trackers
+
+${rareDomainsListString}`;
 
     const cloakedTrackersString = flattedCloakedTrackers
         .sort((a, b) => {
@@ -55,8 +58,6 @@ ${subDomainsString}`;
 ## Disguised trackers list
 
 ${domainsString}
-
-### Rarely active trackers 
 
 ${rareDomainsString}
 
