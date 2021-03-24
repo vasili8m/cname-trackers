@@ -33,6 +33,7 @@
     * mond-post-ch-cddc.at-o.net
     * mond-postauto-ch-cddc.at-o.net
     * montpalatin-handicap-fr-cddc.at-o.net
+    * pear-ca-eko-globetrotter-fr-cddc.at-o.net
     * ponyo-cheriefm-fr-cddc.at-o.net
     * res-elle-fr-cddc.at-o.net
     * res-femina-fr-cddc.at-o.net
@@ -92,6 +93,7 @@
 | mond.post.ch | mond-post-ch-cddc.at-o.net |
 | mond.postauto.ch | mond-postauto-ch-cddc.at-o.net |
 | montpalatin.handicap.fr | montpalatin-handicap-fr-cddc.at-o.net |
+| pear.ca-eko-globetrotter.fr | pear-ca-eko-globetrotter-fr-cddc.at-o.net |
 | ponyo.cheriefm.fr | ponyo-cheriefm-fr-cddc.at-o.net |
 | res.elle.fr | res-elle-fr-cddc.at-o.net |
 | res.femina.fr | res-femina-fr-cddc.at-o.net |

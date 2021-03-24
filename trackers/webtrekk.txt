@@ -61,6 +61,7 @@
 ||data.inbank.it^
 ||data.leipzig.de^
 ||data.mainpost.de^
+||data.westlotto.de^
 ||daten.union-investment.de^
 ||di.ifolor.net^
 ||ed.emp-online.ch^
@@ -96,6 +97,7 @@
 ||ot.obi.hu^
 ||ot.obi.pl^
 ||ot.obi.ru^
+||ot.obi.si^
 ||ot.obi.sk^
 ||pixel.welt.de^
 ||proditor.sparda.de^

@@ -3,6 +3,7 @@
 !
 ! tracking.bp01.net disguised trackers
 !
+||emailing.casden.banquepopulaire.fr^
 ||sms.gestion.cetelem.fr^
 ||t8.mailperformance.com^
 ||tr.3ou4xcb.cetelem.fr^
@@ -21,6 +22,7 @@
 ||tr.asp2032.espmp-aufr.net^
 ||tr.b2d1.espmp-agfr.net^
 ||tr.b2d1068.espmp-nifr.net^
+||tr.boletim.companeo.pt^
 ||tr.boletim.meu-orcamento.pt^
 ||tr.business-deal.fr^
 ||tr.cacf.ipsos-surveys.com^
@@ -44,12 +46,16 @@
 ||tr.courrier.sudouest.fr^
 ||tr.devis-companeo.be^
 ||tr.devis-companeo.com^
+||tr.devis-companeo.fr^
+||tr.devis-professionnels.com^
+||tr.e-mail.axa.fr^
 ||tr.e.trouver-un-logement-neuf.com^
 ||tr.em.cdiscountpro.com^
 ||tr.email.aeroexpo.online^
 ||tr.email.custom-campaign.com^
 ||tr.email.directindustry.com^
 ||tr.email.securite-routiere.gouv.fr^
+||tr.email.thelem-assurances.fr^
 ||tr.email.virtual-expo.com^
 ||tr.email.voyagesleclerc.com^
 ||tr.emailing.canalplus-afrique.com^
@@ -75,12 +81,14 @@
 ||tr.info.lacentrale.fr^
 ||tr.info.mango-mobilites.fr^
 ||tr.info.mavoiturecash.fr^
+||tr.info.maxis-gbn.com^
 ||tr.info.mobibam.com^
 ||tr.info.snpden.net^
 ||tr.infolettre.securite-routiere.gouv.fr^
 ||tr.information.fidalformations.fr^
 ||tr.informations.dila.gouv.fr^
 ||tr.informations.harmonie-mutuelle.fr^
+||tr.informations.lcl.fr^
 ||tr.jkyg.espmp-cufr.net^
 ||tr.kpyn.espmp-cufr.net^
 ||tr.leads.direct^
@@ -100,10 +108,12 @@
 ||tr.news.alibabuy.com^
 ||tr.news.alinea.com^
 ||tr.news.allopneus.com^
+||tr.news.cad-magazine.com^
 ||tr.news.capfun.com^
 ||tr.news.casino.fr^
 ||tr.news.casinomax.fr^
 ||tr.news.cotemaison.fr^
+||tr.news.delifrance.com^
 ||tr.news.deneuville-chocolat.fr^
 ||tr.news.digitpjms.fr^
 ||tr.news.directeo.fr^
@@ -129,6 +139,7 @@
 ||tr.news.younited-credit.com^
 ||tr.news2pjms.fr^
 ||tr.newsletter.erenumerique.fr^
+||tr.newsletter.meilleurmobile.com^
 ||tr.newsletter.younited-credit.com^
 ||tr.newsletters.odalys-vacances.com^
 ||tr.notification-gdpr.bnpparibas-personalfinance.fr^
@@ -140,7 +151,10 @@
 ||tr.offre-companeo.com^
 ||tr.offrevip.floa.fr^
 ||tr.orange-lease.fr^
+||tr.panels-mediametrie.fr^
 ||tr.pole-emploi-services.com^
+||tr.politicoevents.eu^
+||tr.pro.odalys-vacances.com^
 ||tr.qualitevehicule.fr^
 ||tr.ra.cofinoga.fr^
 ||tr.satisfaction.alinea.com^
@@ -149,6 +163,7 @@
 ||tr.scienceshumaines.pro^
 ||tr.secteurentreprises.harmonie-mutuelle.fr^
 ||tr.serviceclient.younited-credit.com^
+||tr.services.alinea.com^
 ||tr.services.caradisiac.com^
 ||tr.servicesclients.canalplus.fr^
 ||tr.sfr.espmp-aufr.net^
@@ -171,3 +186,4 @@
 ||tr1.mailperf.com^
 ||tr5.mailperf.com^
 ||trpreviews.bp01.net^
+||www.tr.bfc-mp.caisse-epargne.fr^

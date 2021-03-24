@@ -9,6 +9,7 @@
 ||k.cocooncenter.com^
 ||k.cocooncenter.de^
 ||k.cocooncenter.es^
+||k.comptoir.fr^
 ||k.direct-assurance.fr^
 ||k.jacadi.ch^
 ||k.jacadi.de^

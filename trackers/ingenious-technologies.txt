@@ -387,6 +387,8 @@
 ||idsclassic.net.daraz.com^
 ||ighack.net.daraz.com^
 ||img.net.daraz.com^
+||img.net.idealo-partner.com^
+||img.service.belboon.com^
 ||info-5.net.daraz.com^
 ||info-admin.net.daraz.com^
 ||info-administrators.net.daraz.com^

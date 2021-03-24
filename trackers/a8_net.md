@@ -11,6 +11,7 @@
 | ---- | ---- |
 | a8.cyclemarket.jp | trck.a8.net |
 | a8.eonet.jp | trck.a8.net |
+| a8.fit-theme.com | trck.a8.net |
 | a8.print-netsquare.com | trck.a8.net |
 | a8.shopserve.jp | trck.a8.net |
 | a8.soelu.com | trck.a8.net |

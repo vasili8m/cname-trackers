@@ -4,11 +4,11 @@
 ! ebis.ne.jp disguised trackers
 !
 ||ac-ebis.otoraku.jp^
+||ad-ebis.bookpass.auone.jp^
 ||ad-track.paravi.jp^
 ||ad.aucfan.com^
 ||ad.kddi-fs.com^
 ||ad.tempstaff.co.jp^
-||adbq.bk.mufg.jp^
 ||adebis-52667624.wowma.jp^
 ||adebis.38-8931.com^
 ||adebis.demae-can.com^
@@ -21,6 +21,7 @@
 ||adebis.nursery.co.jp^
 ||adebis.qeee.jp^
 ||adebis.report.clinic^
+||adebis.tipness.co.jp^
 ||adebis8628.matsui.co.jp^
 ||adebiscname.auone.jp^
 ||adebisu.wowow.co.jp^
@@ -29,10 +30,13 @@
 ||aecname.manekatsu.com^
 ||aesus.so-net.ne.jp^
 ||beauty-healthcname.oyakudachi-news.com^
+||campaign-direct.eisai.jp^
 ||cname.ebis.folio-sec.com^
 ||cnameebis.usagi-online.com^
+||cnebis.eisai.jp^
 ||digital.anicom-sompo.co.jp^
 ||ebis.biyo-job.com^
+||ebis.blueflag.co.jp^
 ||ebis.kubara.jp^
 ||ebis.rozetta.jp^
 ||ebis.sekisuihouse.co.jp^

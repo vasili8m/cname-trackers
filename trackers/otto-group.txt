@@ -3,12 +3,16 @@
 !
 ! oghub.io disguised trackers
 !
+||te.ackermann.ch^
 ||te.baur.de^
 ||te.frankonia.de^
 ||te.heine.de^
 ||te.limango.de^
+||te.mirapodo.de^
 ||te.mytoys.de^
 ||te.otto.de^
+||te.ottoversand.at^
+||te.quelle.ch^
 ||te.quelle.de^
 ||te.schlafwelt.de^
 ||te.sheego.de^
@@ -31,6 +35,7 @@
 ||tp.otto.de^
 ||tp.ottoversand.at^
 ||tp.quelle.at^
+||tp.quelle.ch^
 ||tp.quelle.de^
 ||tp.schlafwelt.de^
 ||tp.sheego.de^

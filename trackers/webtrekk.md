@@ -45,6 +45,7 @@
     * 637394170883823.wt-eu02.net
     * 639871942536313.wt-eu02.net
     * 641523609775483.wt-eu02.net
+    * 666882163750646.wt-eu02.net
     * 669154114435717.wt-eu02.net
     * 709114798683263.wt-eu02.net
     * 729347163621496.wt-eu02.net
@@ -129,6 +130,7 @@
 | wbtrkk.teufelaudio.at | 637394170883823.wt-eu02.net |
 | wt.generali.de | 639871942536313.wt-eu02.net |
 | web.x.ilpost.it | 641523609775483.wt-eu02.net |
+| data.westlotto.de | 666882163750646.wt-eu02.net |
 | data.adlermode.com | 669154114435717.wt-eu02.net |
 | web.info.bonprix.es | 709114798683263.wt-eu02.net |
 | web.diebayerische.de | 729347163621496.wt-eu02.net |
@@ -237,6 +239,7 @@
 | ot.obi.hu | obi-all.wt-eu02.net |
 | ot.obi.pl | obi-all.wt-eu02.net |
 | ot.obi.ru | obi-all.wt-eu02.net |
+| ot.obi.si | obi-all.wt-eu02.net |
 | ot.obi.sk | obi-all.wt-eu02.net |
 | t.paydirekt.de | paydirekt-de01.wt-eu02.net |
 | tr.suedkurier.de | sdkurier-de01.wt-eu02.net |

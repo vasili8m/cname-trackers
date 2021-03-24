@@ -5,6 +5,7 @@
 !
 ||a8.cyclemarket.jp^
 ||a8.eonet.jp^
+||a8.fit-theme.com^
 ||a8.print-netsquare.com^
 ||a8.shopserve.jp^
 ||a8.soelu.com^
